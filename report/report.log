@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 12:00
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 10:00
+>>>>>>> Stashed changes
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,9 +11,15 @@ entering extended mode
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (bmcart.cls
 Document Class: bmcart 2017/07/31BioMed Central class (VS)
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+>>>>>>> Stashed changes
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -26,6 +36,7 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \mathindent=\dimen139
 
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
@@ -34,16 +45,38 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.s
+ty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
+r.cfg
+>>>>>>> Stashed changes
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdft
+ex.def
+>>>>>>> Stashed changes
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \stockwidth=\dimen140
 \stockheight=\dimen141
 )
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
+r.ltx)
+>>>>>>> Stashed changes
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -53,7 +86,13 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+<<<<<<< Updated upstream
 ) (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+=======
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage
+.sty
+>>>>>>> Stashed changes
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
 \c@thanks=\count193
@@ -67,7 +106,12 @@ Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 \abstract@box=\box54
 \authors@list=\toks17
 \keywords@list=\toks18
+<<<<<<< Updated upstream
 ) (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+=======
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+>>>>>>> Stashed changes
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks19
 \thm@bodyfont=\toks20
@@ -79,24 +123,49 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip51
 \dth@everypar=\toks24
 )
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
+ty
+>>>>>>> Stashed changes
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+=======
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.s
+ty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.st
+y
+>>>>>>> Stashed changes
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks25
 \ex@=\dimen143
 ))
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen144
 )
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
+>>>>>>> Stashed changes
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count197
@@ -147,6 +216,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -158,19 +228,44 @@ Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx
+.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics
+.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\grap
+hics.cfg
+>>>>>>> Stashed changes
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
+<<<<<<< Updated upstream
 ) (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+=======
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+>>>>>>> Stashed changes
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks30
 \inpenc@posthook=\toks31
 )
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
+nd-pdftex.def
+>>>>>>> Stashed changes
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box57
@@ -192,8 +287,13 @@ LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
+pdf.mkii
+>>>>>>> Stashed changes
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count276
 \scratchdimen=\dimen154
@@ -207,6 +307,7 @@ ii
 \makeMPintoPDFobject=\count281
 \everyMPtoPDFconversion=\toks33
 )
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -234,6 +335,41 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
  (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwa
+rerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kv
+definekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptio
+ns.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds
+.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetke
+ys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdft
+excmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+>>>>>>> Stashed changes
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -247,8 +383,13 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 
+<<<<<<< Updated upstream
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
+=======
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf
+-sys.cfg
+>>>>>>> Stashed changes
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
@@ -277,6 +418,27 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 47.
 
 \address@aff1=\toks34
+<<<<<<< Updated upstream
+=======
+
+LaTeX Warning: Citation `koon' on page 1 undefined on input line 134.
+
+
+LaTeX Warning: Citation `xjon' on page 1 undefined on input line 134.
+
+
+LaTeX Warning: Citation `marg' on page 1 undefined on input line 134.
+
+
+LaTeX Warning: Citation `schn' on page 1 undefined on input line 134.
+
+
+LaTeX Warning: Citation `koha' on page 1 undefined on input line 134.
+
+
+LaTeX Warning: Citation `issnic' on page 1 undefined on input line 134.
+
+>>>>>>> Stashed changes
 <figures/Sequencing_Cost_per_Genome_May2020.jpg, id=1, 963.6pt x 542.32613pt>
 File: figures/Sequencing_Cost_per_Genome_May2020.jpg Graphic file (type jpg)
 <use figures/Sequencing_Cost_per_Genome_May2020.jpg>
@@ -296,6 +458,7 @@ Package pdftex.def Info: figures/Sequencing_Cost_per_Megabase_May2020.jpg  used
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< Updated upstream
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 188.
 
@@ -303,6 +466,14 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 
 ]
 (tex_files/introduction.tex) (tex_files/material_methods.tex)
+=======
+(tex_files/introduction.tex
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 1.
+ [1{C:/Users/Pepe Aldana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+]) (tex_files/material_methods.tex)
+>>>>>>> Stashed changes
 (tex_files/resultados.tex) (tex_files/discusion.tex)
 (tex_files/conclusiones.tex) [2 <./figures/Sequencing_Cost_per_Genome_May2020.j
 pg> <./figures/Sequencing_Cost_per_Megabase_May2020.jpg>] (report.bbl)
@@ -313,6 +484,7 @@ AED: lastpage setting LastPage
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+<<<<<<< Updated upstream
  ) 
 Here is how much of TeX's memory you used:
  3945 strings out of 475385
@@ -340,6 +512,40 @@ pe1/public/amsfonts/cm/cmti10.pfb>
 Output written on report.pdf (3 pages, 1129416 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
+=======
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3899 strings out of 475385
+ 63680 string characters out of 2774038
+ 416073 words of memory out of 3000000
+ 25215 multiletter control sequences out of 15000+600000
+ 477884 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,13n,67p,254b,354s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmex10.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Pepe Aldana/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Pepe Ald
+ana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr5.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Pepe Aldana/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/Pepe Aldana/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pep
+e Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.
+pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (3 pages, 1133114 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+>>>>>>> Stashed changes
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
