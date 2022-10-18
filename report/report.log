@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 12:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  18 OCT 2022 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,12 +398,16 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 48.
 
 \address@aff1=\toks34
-(tex_files/introduction.tex) (tex_files/material_methods.tex)
-(tex_files/resultados.tex) (tex_files/discusion.tex)
-(tex_files/conclusiones.tex) (report.bbl) 
+(tex_files/introduction.tex
+
+LaTeX Warning: Citation `Turk2006' on page 1 undefined on input line 4.
+
+) (tex_files/material_methods.tex) (tex_files/resultados.tex)
+(tex_files/discusion.tex) (tex_files/conclusiones.tex) (report.bbl)
+
 AED: lastpage setting LastPage
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 127.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 128.
 
 [1{C:/Users/juanc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
@@ -413,26 +417,30 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: A3EA61EFFBF3D2DE331C9EED6C20E6BE;629.
+(rerunfilecheck)             Checksum: 8FDE0D007F6A5387A29B89961C587533;957.
  ) 
 Here is how much of TeX's memory you used:
- 10070 strings out of 475385
- 158702 string characters out of 2776906
- 515074 words of memory out of 3000000
- 31300 multiletter control sequences out of 15000+600000
- 475743 words of font info for 51 fonts, out of 8000000 for 9000
+ 10021 strings out of 475385
+ 158337 string characters out of 2776906
+ 510988 words of memory out of 3000000
+ 31257 multiletter control sequences out of 15000+600000
+ 475883 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,234b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmss10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss17.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss8.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/juanc/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (1 page, 69428 bytes).
+cmbx10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmss10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/juanc/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/juanc/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on report.pdf (1 page, 78772 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
