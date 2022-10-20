@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  19 OCT 2022 11:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  20 OCT 2022 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -414,25 +414,25 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 8FDE0D007F6A5387A29B89961C587533;957.
+(rerunfilecheck)             Checksum: 34BE0877D87310C32814F18109C126F3;772.
  ) 
 Here is how much of TeX's memory you used:
- 10019 strings out of 475385
- 158316 string characters out of 2776906
- 511013 words of memory out of 3000000
- 31256 multiletter control sequences out of 15000+600000
+ 10017 strings out of 475385
+ 158286 string characters out of 2776906
+ 513013 words of memory out of 3000000
+ 31255 multiletter control sequences out of 15000+600000
  475575 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,234b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,472b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmr10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmss10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmss17.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmss8.pfb><C:/Users/juanc/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on report.pdf (1 page, 74032 bytes).
+Output written on report.pdf (1 page, 76991 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
