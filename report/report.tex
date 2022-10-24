@@ -54,7 +54,7 @@
 			  \orgname{Universidad de Málaga},          % university, etc
 			  \city{Málaga},                              % city
 			  \cny{España}                                    % country
-			}
+		}
 		
 		\end{fmbox}% comment this for two column layout
 		
@@ -100,8 +100,12 @@
 	
 	\begin{backmatter}
 	
-		%\section*{Abreviaciones}%% if any
-			%Indicar lista de abreviaciones mostrando cada acrónimo a que corresponde
+		\section*{Abreviaciones}%% if any
+			\begin{itemize}
+				\item \label{GO} \textbf{GO}: Gene Ontology 
+				\item \label{HPO} \textbf{HPO}: Human Phenotype Ontology database
+				\item  \label{OMIM} \textbf{OMIM}: Online Mendelian Inheritance in Man database
+			\end{itemize}
 		
 		\section*{Disponibilidad de datos y materiales}%% if any
 			Repositorio de github:
@@ -119,7 +123,7 @@
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		
 		\bibliographystyle{bmc-mathphys} % Style BST file (bmc-mathphys, vancouver, spbasic).
-		\bibliography{bibliography}      % Bibliography file (usually '*.bib' )
+		\bibliography{bibliography.bib}      % Bibliography file (usually '*.bib' )
 	
 	\end{backmatter}
 \end{document}

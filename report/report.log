@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  24 OCT 2022 12:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  24 OCT 2022 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -400,7 +400,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 \address@aff1=\toks34
 (tex_files/introduction.tex
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 14.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 19.
  [1{C:/Users/juanc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]) (tex_files/material_methods.tex) (tex_files/resultados.tex)
@@ -412,39 +412,32 @@ AED: lastpage setting LastPage
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 112BCB9AF33A0651FDCCAC3B9FE35975;847
-(rerunfilecheck)             After:  34BE0877D87310C32814F18109C126F3;772.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 42CA9EAACF175F7251AF0FD606AF0E84;1310.
  ) 
 Here is how much of TeX's memory you used:
- 10028 strings out of 475385
- 158418 string characters out of 2776906
- 517016 words of memory out of 3000000
- 31261 multiletter control sequences out of 15000+600000
- 476564 words of font info for 53 fonts, out of 8000000 for 9000
+ 10096 strings out of 475385
+ 159104 string characters out of 2776906
+ 517325 words of memory out of 3000000
+ 31315 multiletter control sequences out of 15000+600000
+ 477071 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,843b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{subsubsection.1.1.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
- <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
-00.pk><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmss10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/juanc/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/juanc/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/juanc/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (2 pages, 112818 bytes).
+ 72i,8n,77p,632b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1000.pk><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/juanc/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/juanc/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/juanc/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/j
+uanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt
+8.pfb>
+Output written on report.pdf (2 pages, 139111 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
