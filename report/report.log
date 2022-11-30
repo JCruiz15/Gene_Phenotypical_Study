@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  28 NOV 2022 11:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  30 NOV 2022 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,47 +354,55 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
+(C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks32
+\float@box=\box57
+\@float@everytoks=\toks33
+\@floatcapt=\box58
+)
 (C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
 nd-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box59
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
 pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count288
 \scratchdimen=\dimen158
-\scratchbox=\box58
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count290
+\scratchbox=\box60
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count291
 \MPscratchDim=\dimen159
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks33
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks35
 )
 (C:\Users\Pepe Aldana\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
 opdf-base.sty
@@ -408,8 +416,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 20.
-Package hyperref Info: Link coloring ON on input line 20.
+(lastpage)             ! on input line 21.
+Package hyperref Info: Link coloring ON on input line 21.
  (report.out) (report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -417,34 +425,47 @@ Package hyperref Info: Link coloring ON on input line 20.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 25.
+(Font)              size <12> substituted on input line 26.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <24> not available
-(Font)              size <24.88> substituted on input line 31.
+(Font)              size <24.88> substituted on input line 32.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 42.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 43.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 43.
 
-\address@aff1=\toks34
+\address@aff1=\toks36
 (tex_files/introduction.tex
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 20.
  [1{C:/Users/Pepe Aldana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-] [2]) (tex_files/material_methods.tex)
+] [2]) (tex_files/material_methods.tex
+<figures/Workflow_genes.PNG, id=112, 526.96875pt x 549.05125pt>
+File: figures/Workflow_genes.PNG Graphic file (type png)
+<use figures/Workflow_genes.PNG>
+Package pdftex.def Info: figures/Workflow_genes.PNG  used on input line 9.
+(pdftex.def)             Requested size: 144.3978pt x 150.44919pt.
+)
 (tex_files/resultados.tex) (tex_files/discusion.tex)
-(tex_files/conclusiones.tex) (report.bbl
+(tex_files/conclusiones.tex) [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.107 				\item \label
+                      {HPO} \textbf{HPO}: Human Phenotype Ontology database <./
+figures/Workflow_genes.PNG>] (report.bbl
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 142.
 
@@ -452,28 +473,22 @@ LaTeX Font Info:    Trying to load font information for TS1+cmss on input line
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )) 
 AED: lastpage setting LastPage
-[3] (report.aux)
+[4] (report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: EDA96C59CD87B16FD48BCB32CAA8C9ED;1642
-(rerunfilecheck)             After:  D5AA13198C9E3A7938FDDDC9D759C17F;2294.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: D7156A2A54CF6A705AB111791942FE7F;2170.
  ) 
 Here is how much of TeX's memory you used:
- 10131 strings out of 475385
- 160383 string characters out of 2774038
- 517422 words of memory out of 3000000
- 31336 multiletter control sequences out of 15000+600000
- 477416 words of font info for 56 fonts, out of 8000000 for 9000
+ 10219 strings out of 475385
+ 161929 string characters out of 2774038
+ 518864 words of memory out of 3000000
+ 31416 multiletter control sequences out of 15000+600000
+ 477710 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,923b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,1053b,584s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcss0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/
@@ -487,9 +502,9 @@ e1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pepe Aldana/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Pepe 
 Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (3 pages, 149983 bytes).
+Output written on report.pdf (4 pages, 171727 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
