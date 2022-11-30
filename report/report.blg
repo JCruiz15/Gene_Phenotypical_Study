@@ -21,58 +21,64 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibliography.bib
+Warning--entry type for "KEGGpathway" isn't style-file defined
+--line 1 of file bibliography.bib
+Warning--entry type for "STRINGdb" isn't style-file defined
+--line 109 of file bibliography.bib
 Warning--entry type for "hpo_web" isn't style-file defined
---line 83 of file bibliography.bib
+--line 261 of file bibliography.bib
 Warning--entry type for "RaynaudRheuma" isn't style-file defined
---line 91 of file bibliography.bib
+--line 269 of file bibliography.bib
 Warning--entry type for "Raynaud-nih" isn't style-file defined
---line 139 of file bibliography.bib
+--line 317 of file bibliography.bib
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Warning--to sort, need author or key in hpo_web
 Warning--to sort, need author or key in Raynaud-nih
+Warning--to sort, need author or key in STRINGdb
+Warning--to sort, need author or key in KEGGpathway
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 9 entries,
+You've used 13 entries,
             7128 wiz_defined-function locations,
-            1187 strings with 10660 characters,
-and the built_in function-call counts, 127738 in all, are:
-= -- 23459
-> -- 176
-< -- 104
-+ -- 14194
-- -- 61
-* -- 3397
-:= -- 22312
-add.period$ -- 11
-call.type$ -- 9
-change.case$ -- 80
-chr.to.int$ -- 201
-cite$ -- 13
-duplicate$ -- 657
-empty$ -- 1746
-format.name$ -- 160
-if$ -- 32668
+            1217 strings with 11446 characters,
+and the built_in function-call counts, 263644 in all, are:
+= -- 49958
+> -- 253
+< -- 156
++ -- 31553
+- -- 99
+* -- 5819
+:= -- 45174
+add.period$ -- 18
+call.type$ -- 13
+change.case$ -- 132
+chr.to.int$ -- 322
+cite$ -- 21
+duplicate$ -- 950
+empty$ -- 2528
+format.name$ -- 216
+if$ -- 68330
 int.to.chr$ -- 1
-int.to.str$ -- 26
-missing$ -- 288
-newline$ -- 256
-num.names$ -- 35
-pop$ -- 326
+int.to.str$ -- 37
+missing$ -- 418
+newline$ -- 342
+num.names$ -- 45
+pop$ -- 469
 preamble$ -- 1
-purify$ -- 41
-quote$ -- 18
-skip$ -- 14121
+purify$ -- 58
+quote$ -- 26
+skip$ -- 30410
 stack$ -- 0
-substring$ -- 12227
-swap$ -- 161
-text.length$ -- 136
+substring$ -- 24621
+swap$ -- 243
+text.length$ -- 206
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 313
-warning$ -- 2
-while$ -- 237
+type$ -- 467
+warning$ -- 4
+while$ -- 348
 width$ -- 0
-write$ -- 301
-(There were 5 warnings)
+write$ -- 406
+(There were 9 warnings)

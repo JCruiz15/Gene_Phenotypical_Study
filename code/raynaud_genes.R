@@ -63,7 +63,7 @@ dev.off()
 # Nested communities: Son aquellas comunidades que son independientes respecto a otras
 getAllNestedComm(lc)
 png("../results/Raynaud-nested_communities.png")
-plot(lc, type = "graph")
+plot(lc, type = "graph", vlabel=FALSE)
 dev.off()
 
 ################# Estudio funcionalidad ##################
@@ -78,8 +78,8 @@ enriquecimiento <- function(cluster) {
   enrichmentGO$ontology <- rep("GO")
   
   # Enriquecimiento funcional con KEGG
-  # enrichmentKEGG <- string_db$get_enrichment(expr_c$STRING_id, category = "KEGG", iea = TRUE)
-  # enrichmentKEGG$ontology <- rep("KEGG")
+  enrichmentKEGG <- string_db$get_enrichment(expr_c$STRING_id, category = "KEGG", iea = TRUE)
+  enrichmentKEGG$ontology <- rep("KEGG")
   
   # Enriquecimiento funcional con Pfam
   # enrichmentPfam <- string_db$get_enrichment(expr_c$STRING_id, category = "Pfam", iea = TRUE)

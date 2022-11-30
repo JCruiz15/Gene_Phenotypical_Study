@@ -1,20 +1,16 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  30 NOV 2022 14:01
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  30 NOV 2022 14:06
->>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  30 NOV 2022 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./report.tex
 (report.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (bmcart.cls
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (bmcart.cls
 Document Class: bmcart 2017/07/31BioMed Central class (VS)
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -26,9 +22,9 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen140
 )
-\mathindent=\dimen139
+\mathindent=\dimen141
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
@@ -44,8 +40,6 @@ Package xcolor Info: Driver file: pdftex.def on input line 227.
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen140
-\stockheight=\dimen141
 )
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
@@ -173,7 +167,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks30
 \inpenc@posthook=\toks31
 ) (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
@@ -232,7 +226,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count276
 \Hy@pagecounter=\count277
  (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -243,7 +237,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count278
  (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -296,7 +290,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
@@ -318,6 +312,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
 \Hy@SectionHShift=\skip55
+)
+(C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
@@ -349,30 +346,30 @@ Package caption Info: hyperref package is loaded.
 )
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box57
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -401,8 +398,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 20.
-Package hyperref Info: Link coloring ON on input line 20.
+(lastpage)             ! on input line 21.
+Package hyperref Info: Link coloring ON on input line 21.
  (report.out) (report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -412,24 +409,24 @@ Package caption Info: End \AtBeginDocument code.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 25.
+(Font)              size <12> substituted on input line 26.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <24> not available
-(Font)              size <24.88> substituted on input line 31.
+(Font)              size <24.88> substituted on input line 32.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 42.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 43.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 42.
+(Font)              size <5> substituted on input line 43.
 
 \address@aff1=\toks34
 (tex_files/introduction.tex
@@ -438,8 +435,7 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
  [1{C:/Users/juanc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ] [2]) (tex_files/material_methods.tex
-<<<<<<< HEAD
-<figures/Workflow_genes.png, id=112, 526.96875pt x 549.05125pt>
+<figures/Workflow_genes.png, id=120, 526.96875pt x 549.05125pt>
 File: figures/Workflow_genes.png Graphic file (type png)
 <use figures/Workflow_genes.png>
 Package pdftex.def Info: figures/Workflow_genes.png  used on input line 11.
@@ -455,141 +451,127 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 7--16
 []$[]$ 
  []
 
-[3 <./figures/Workflow_genes.png>]) (tex_files/resultados.tex
 
-LaTeX Warning: Reference `obtencion_ref' on page 4 undefined on input line 3.
+LaTeX Warning: Citation `iGraph' on page 3 undefined on input line 20.
 
-<figures/Raynaud_genes-graph.png, id=124, 853.1875pt x 853.1875pt>
+[3 <./figures/Workflow_genes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+) (tex_files/resultados.tex [4]
+<figures/Raynaud_genes-graph.png, id=150, 853.1875pt x 853.1875pt>
 File: figures/Raynaud_genes-graph.png Graphic file (type png)
 <use figures/Raynaud_genes-graph.png>
-Package pdftex.def Info: figures/Raynaud_genes-graph.png  used on input line 8.
-
+Package pdftex.def Info: figures/Raynaud_genes-graph.png  used on input line 10
+.
 (pdftex.def)             Requested size: 361.0pt x 361.00511pt.
 
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 9.
+(caption)                particular \caption on input line 11.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 5--12
+Overfull \hbox (8.0pt too wide) in paragraph at lines 7--14
 []$[]$ 
  []
 
-<figures/Raynaud_genes-dendrogram.png, id=126, 501.875pt x 501.875pt>
+<figures/Raynaud_genes-dendrogram.png, id=152, 501.875pt x 501.875pt>
 File: figures/Raynaud_genes-dendrogram.png Graphic file (type png)
 <use figures/Raynaud_genes-dendrogram.png>
 Package pdftex.def Info: figures/Raynaud_genes-dendrogram.png  used on input li
-ne 20.
-(pdftex.def)             Requested size: 288.8011pt x 288.81328pt.
+ne 24.
+(pdftex.def)             Requested size: 252.6989pt x 252.70587pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 21.
+(caption)                particular \caption on input line 25.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 17--24
+Overfull \hbox (8.0pt too wide) in paragraph at lines 21--28
 []$[]$ 
  []
 
-[4 <./figures/Raynaud_genes-graph.png>]
-<figures/Raynaud_genes-comunity_members_matrix.png, id=136, 501.875pt x 501.875
+
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+ [5 <./figures/Raynaud_genes-graph.png>]
+<figures/Raynaud_genes-comunity_members_matrix.png, id=162, 501.875pt x 501.875
 pt>
 File: figures/Raynaud_genes-comunity_members_matrix.png Graphic file (type png)
 
 <use figures/Raynaud_genes-comunity_members_matrix.png>
 Package pdftex.def Info: figures/Raynaud_genes-comunity_members_matrix.png  use
-d on input line 30.
-(pdftex.def)             Requested size: 288.8011pt x 288.81328pt.
+d on input line 36.
+(pdftex.def)             Requested size: 252.6989pt x 252.70587pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 31.
+(caption)                particular \caption on input line 37.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 27--34
+Overfull \hbox (8.0pt too wide) in paragraph at lines 33--40
 []$[]$ 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./figures/Raynaud_genes-dendrogram.png>]
-<figures/Raynaud_genes-comunities_graph.png, id=146, 1084.05pt x 1084.05pt>
+ [6 <./figures/Raynaud_genes-dendrogram.png> <./figures/Raynaud_genes-comunity_
+members_matrix.png>]
+<figures/Raynaud_genes-comunities_graph.png, id=173, 1084.05pt x 1084.05pt>
 File: figures/Raynaud_genes-comunities_graph.png Graphic file (type png)
 <use figures/Raynaud_genes-comunities_graph.png>
 Package pdftex.def Info: figures/Raynaud_genes-comunities_graph.png  used on in
-put line 40.
-(pdftex.def)             Requested size: 288.8011pt x 288.79367pt.
+put line 48.
+(pdftex.def)             Requested size: 252.6989pt x 252.68413pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 41.
+(caption)                particular \caption on input line 49.
 See the caption package documentation for explanation.
 
-) (tex_files/discusion.tex
-Overfull \hbox (8.0pt too wide) in paragraph at lines 37--1
-[]$[]$
+
+Overfull \hbox (8.0pt too wide) in paragraph at lines 45--52
+[]$[]$ 
  []
 
+) (tex_files/discusion.tex) (tex_files/conclusiones.tex) [7 <./figures/Raynaud_
+genes-comunities_graph.png>] (report.bbl
+! Missing $ inserted.
+<inserted text> 
+                $
+l.121 doi:\doiurl{10.1007/978-3-662-45139-7_55}
+                                               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--1
-=======
-<figures/Workflow_genes.PNG, id=120, 526.96875pt x 549.05125pt>
-File: figures/Workflow_genes.PNG Graphic file (type png)
-<use figures/Workflow_genes.PNG>
-Package pdftex.def Info: figures/Workflow_genes.PNG  used on input line 9.
-(pdftex.def)             Requested size: 144.3978pt x 150.44919pt.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.121 doi:\doiurl{10.1007/978-3-662-45139-7_55}
+                                               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-
-LaTeX Warning: Reference `fig:workflow' on page 3 undefined on input line 16.
-
-
-LaTeX Warning: Citation `' on page 3 undefined on input line 20.
-
-
-LaTeX Warning: Citation `' on page 3 undefined on input line 20.
-
-[3
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.21 
-      <./figures/Workflow_genes.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
->>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
-
- []
-
-
-<<<<<<< HEAD
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./figures/Raynaud_genes-comunity_members_matrix.png>]) (tex_files/conclusi
-ones.tex)
-(report.bbl
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-) (tex_files/resultados.tex) (tex_files/discusion.tex)
-(tex_files/conclusiones.tex) [4] (report.bbl
->>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-142.
-
+143.
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
-File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ))
 
 AED: lastpage setting LastPage
-<<<<<<< HEAD
-[7 <./figures/Raynaud_genes-comunities_graph.png>] (report.aux)
-=======
-[5] (report.aux)
->>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
+[8] (report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -601,57 +583,31 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: BEE5D929250C7AA6A69ECDA467D35FC1;2336.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 11471 strings out of 475385
- 186840 string characters out of 2776906
- 540291 words of memory out of 3000000
- 32655 multiletter control sequences out of 15000+600000
+ 11540 strings out of 475284
+ 188226 string characters out of 2774104
+ 550741 words of memory out of 3000000
+ 32812 multiletter control sequences out of 15000+600000
  477416 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,77p,1057b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,1329b,576s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\tcrm1000.pk><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmbx10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/juanc/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/juanc/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/juanc/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/juanc/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/U
-sers/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.
-pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmtt8.pfb>
-Output written on report.pdf (7 pages, 213534 bytes).
+TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/juanc/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/juanc/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/juanc/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/
+juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C
+:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
+bx10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmtt8.pfb>
+Output written on report.pdf (8 pages, 249488 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 154 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 10229 strings out of 475385
- 162064 string characters out of 2774038
- 519028 words of memory out of 3000000
- 31423 multiletter control sequences out of 15000+600000
- 477710 words of font info for 57 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,8n,77p,1298b,578s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcss0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Pepe Aldana/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Pepe Aldana/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Pe
-pe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.p
-fb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmss17.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pepe Aldana/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Pepe 
-Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (5 pages, 179273 bytes).
-PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
+ 279 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 

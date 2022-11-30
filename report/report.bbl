@@ -1,6 +1,6 @@
 %% BioMed_Central_Bib_Style_v1.01
 
-\begin{thebibliography}{9}
+\begin{thebibliography}{13}
 % BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
 \ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
 \ifx \binits  \undefined \def \binits#1{#1}\fi
@@ -117,7 +117,8 @@ doi:\doiurl{10.1007/S10067-019-04745-5}
 Systemic lupus erythematosus.
 European Handbook of Dermatological Treatments, Third Edition,
 547--560
-(2022)
+(2022).
+doi:\doiurl{10.1007/978-3-662-45139-7_55}
 \end{botherref}
 \endbibitem
 
@@ -141,6 +142,51 @@ StatPearls
 Col4a1-related disorders.
 GeneReviews®
 (1993)
+\end{botherref}
+\endbibitem
+
+%%% 10
+\bibitem{STRINGdb}
+\begin{botherref}
+Help - STRING Functional Protein Association Networks.
+\url{https://string-db.org/cgi/help?sessionId=bzJHBaJS0L92}
+\end{botherref}
+\endbibitem
+
+%%% 11
+\bibitem{Larrion2002}
+\begin{barticle}
+\bauthor{\bsnm{Larrión}, \binits{F.}},
+\bauthor{\bsnm{Neumann-Lara}, \binits{V.}},
+\bauthor{\bsnm{Pizañ}, \binits{M.A.}}:
+\batitle{Whitney triangulations, local girth and iterated clique graphs}.
+\bjtitle{Discrete Mathematics}
+\bvolume{258},
+\bfpage{123}--\blpage{135}
+(\byear{2002}).
+doi:\doiurl{10.1016/S0012-365X(02)00266-2}
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem{Seress1995}
+\begin{barticle}
+\bauthor{\bparticle{Ákos} \bsnm{Seress}},
+\bauthor{\bsnm{Szabó}, \binits{T.}}:
+\batitle{Dense graphs with cycle neighborhoods}.
+\bjtitle{Journal of Combinatorial Theory, Series B}
+\bvolume{63},
+\bfpage{281}--\blpage{293}
+(\byear{1995}).
+doi:\doiurl{10.1006/jctb.1995.1020}
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem{KEGGpathway}
+\begin{botherref}
+KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics.
+\url{https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html}
 \end{botherref}
 \endbibitem
 
@@ -254,6 +300,48 @@ GeneReviews®
   <source>GeneReviews®</source>
   <pubdate>1993</pubdate>
   <url>https://pubmed.ncbi.nlm.nih.gov/20301768/</url>
+</bibl>
+
+<bibl id="B10">
+  <title><p>Help - STRING functional protein association networks</p></title>
+  <url>https://string-db.org/cgi/help?sessionId=bzJHBaJS0L92</url>
+</bibl>
+
+<bibl id="B11">
+  <title><p>Whitney triangulations, local girth and iterated clique
+  graphs</p></title>
+  <aug>
+    <au><snm>Larrión</snm><fnm>F.</fnm></au>
+    <au><snm>Neumann Lara</snm><fnm>V.</fnm></au>
+    <au><snm>Pizañ</snm><fnm>M. A.</fnm></au>
+  </aug>
+  <source>Discrete Mathematics</source>
+  <publisher>Elsevier B.V.</publisher>
+  <pubdate>2002</pubdate>
+  <volume>258</volume>
+  <fpage>123</fpage>
+  <lpage>135</lpage>
+  <url>http://xamanek.izt.uam.mx/map/papers/cuello10_DM.ps</url>
+</bibl>
+
+<bibl id="B12">
+  <title><p>Dense graphs with cycle neighborhoods</p></title>
+  <aug>
+    <au><cnm>Seress</cnm></au>
+    <au><snm>Szabó</snm><fnm>T</fnm></au>
+  </aug>
+  <source>Journal of Combinatorial Theory, Series B</source>
+  <pubdate>1995</pubdate>
+  <volume>63</volume>
+  <fpage>281</fpage>
+  <lpage>293</lpage>
+  <url>http://www.inf.ethz.ch/personal/szabo/PS/kornyezetek.ps</url>
+</bibl>
+
+<bibl id="B13">
+  <title><p>KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical
+  Bioinformatics</p></title>
+  <url>https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html</url>
 </bibl>
 
 </refgrp>
