@@ -54,7 +54,6 @@ plot(lc, type = "graph", layout = layout.fruchterman.reingold, ewidth = 2, vlabe
 dev.off()
 
 
-
 ################# Nested communities ##################
 
 # Nested communities: Son aquellas comunidades que son independientes respecto a otras
@@ -67,7 +66,7 @@ plot(lc, type = "graph")
 
 enriquecimiento <- function(cluster) {
   # Extraemos sus datos
-  comunity_genes <- getNodesIn(lc, clusterids = cluster, type = "names")
+  comunity_genes <- getNodesIn(lc, clusterids = i, type = "names")
   expr_c <- genes_entrez[genes_entrez$STRING_id %in% comunity_genes, ]
   
   # Enriquecimiento funcional con GO
@@ -79,13 +78,13 @@ enriquecimiento <- function(cluster) {
   enrichmentKEGG$ontology <- rep("KEGG")
   
   # Enriquecimiento funcional con Pfam
-  enrichmentPfam <- string_db$get_enrichment(expr_c$STRING_id, category = "Pfam", iea = TRUE)
-  enrichmentPfam$ontology <- rep("Pfam")
+  #enrichmentPfam <- string_db$get_enrichment(expr_c$STRING_id, category = "Pfam", iea = TRUE)
+  #enrichmentPfam$ontology <- rep("Pfam")
   
   # Juntamos las dos
-  enrichment <- rbind(enrichmentGO, enrichmentKEGG, enrichmentPfam)
-  setcolorder(enrichment, c(11, c(1:10)))
-  
+  enrichment <- rbind(enrichmentGO, enrichmentKEGG)
+  data.table::setcolorder(enrichment, c(11, c(1:10)))
+
   # Agrupamos filas repetidas indicando las ontolog?as de origen
   for (i in enrichment$term[!duplicated(enrichment$term)]) {
     num_filas <- which(enrichment$term == i)
@@ -95,13 +94,13 @@ enriquecimiento <- function(cluster) {
     enrichment <- enrichment[-num_filas, ]
     enrichment <- rbind(enrichment, nueva_fila)
   }
-  
+  enrichment
   return(enrichment)
 }
 
 for (i in c(1,2,3,4,5,6)) {
   comunidad <- enriquecimiento(i)
   View(comunidad)
-  dir <- paste("../results/Raynaud-Enriquecimiento_funcional-Comunidad_", i, ".csv", sep = "")
+  dir <- paste("../results/Raynaud_Enriquecimiento_funcional_Comunidades", i, ".csv", sep = "")
   write.csv(comunidad, dir)
 }
