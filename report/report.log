@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  30 NOV 2022 14:01
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  30 NOV 2022 14:06
+>>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,6 +438,7 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
  [1{C:/Users/juanc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ] [2]) (tex_files/material_methods.tex
+<<<<<<< HEAD
 <figures/Workflow_genes.png, id=112, 526.96875pt x 549.05125pt>
 File: figures/Workflow_genes.png Graphic file (type png)
 <use figures/Workflow_genes.png>
@@ -529,15 +534,49 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 37--1
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 37--1
+=======
+<figures/Workflow_genes.PNG, id=120, 526.96875pt x 549.05125pt>
+File: figures/Workflow_genes.PNG Graphic file (type png)
+<use figures/Workflow_genes.PNG>
+Package pdftex.def Info: figures/Workflow_genes.PNG  used on input line 9.
+(pdftex.def)             Requested size: 144.3978pt x 150.44919pt.
+
+
+LaTeX Warning: Reference `fig:workflow' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `' on page 3 undefined on input line 20.
+
+
+LaTeX Warning: Citation `' on page 3 undefined on input line 20.
+
+[3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.21 
+      <./figures/Workflow_genes.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+>>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
 
  []
 
 
+<<<<<<< HEAD
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./figures/Raynaud_genes-comunity_members_matrix.png>]) (tex_files/conclusi
 ones.tex)
 (report.bbl
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+) (tex_files/resultados.tex) (tex_files/discusion.tex)
+(tex_files/conclusiones.tex) [4] (report.bbl
+>>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 142.
 
@@ -546,7 +585,11 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ))
 
 AED: lastpage setting LastPage
+<<<<<<< HEAD
 [7 <./figures/Raynaud_genes-comunities_graph.png>] (report.aux)
+=======
+[5] (report.aux)
+>>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -555,9 +598,10 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: D7156A2A54CF6A705AB111791942FE7F;2170.
+(rerunfilecheck)             Checksum: BEE5D929250C7AA6A69ECDA467D35FC1;2336.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  11471 strings out of 475385
  186840 string characters out of 2776906
  540291 words of memory out of 3000000
@@ -583,4 +627,31 @@ PDF statistics:
  233 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 10229 strings out of 475385
+ 162064 string characters out of 2774038
+ 519028 words of memory out of 3000000
+ 31423 multiletter control sequences out of 15000+600000
+ 477710 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,77p,1298b,578s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcss0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Pepe Aldana/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Pepe Aldana/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Pe
+pe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.p
+fb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmss17.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pepe Aldana/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Pepe 
+Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on report.pdf (5 pages, 179273 bytes).
+PDF statistics:
+ 214 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 2b2e8b6d205813f8c4f2463ac57303062c97257d
 
