@@ -3,8 +3,8 @@ library(igraph)
 library(linkcomm)
 library(data.table)
 
-# wd <- readline("Insert the code directory: ")
-# setwd(wd)
+wd <- readline("Insert the code directory: ")
+setwd(wd)
 
 string_db <- STRINGdb$new(version="11", species=9606, score_threshold=700)
 
@@ -80,10 +80,6 @@ enriquecimiento <- function(cluster) {
   # Enriquecimiento funcional con KEGG
   enrichmentKEGG <- string_db$get_enrichment(expr_c$STRING_id, category = "KEGG", iea = TRUE)
   enrichmentKEGG$ontology <- rep("KEGG")
-  
-  # Enriquecimiento funcional con Pfam
-  # enrichmentPfam <- string_db$get_enrichment(expr_c$STRING_id, category = "Pfam", iea = TRUE)
-  # enrichmentPfam$ontology <- rep("Pfam")
   
   # Juntamos las dos
   enrichment <- rbind(enrichmentGO)
