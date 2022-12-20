@@ -2,3 +2,5 @@ README.md.bak
 .RData
 .RDataTmp
 .Rhistory
+/R_deps
+comandos.txt
