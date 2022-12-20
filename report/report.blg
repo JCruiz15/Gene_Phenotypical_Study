@@ -21,64 +21,70 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibliography.bib
-Warning--entry type for "KEGGpathway" isn't style-file defined
+Warning--entry type for "Linkcomm" isn't style-file defined
 --line 1 of file bibliography.bib
+Warning--entry type for "KEGGpathway" isn't style-file defined
+--line 11 of file bibliography.bib
+Warning--entry type for "IGraph" isn't style-file defined
+--line 111 of file bibliography.bib
 Warning--entry type for "STRINGdb" isn't style-file defined
---line 109 of file bibliography.bib
+--line 119 of file bibliography.bib
 Warning--entry type for "hpo_web" isn't style-file defined
---line 261 of file bibliography.bib
+--line 271 of file bibliography.bib
 Warning--entry type for "RaynaudRheuma" isn't style-file defined
---line 269 of file bibliography.bib
+--line 279 of file bibliography.bib
 Warning--entry type for "Raynaud-nih" isn't style-file defined
---line 317 of file bibliography.bib
+--line 327 of file bibliography.bib
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Warning--to sort, need author or key in hpo_web
 Warning--to sort, need author or key in Raynaud-nih
 Warning--to sort, need author or key in STRINGdb
+Warning--to sort, need author or key in IGraph
 Warning--to sort, need author or key in KEGGpathway
+Warning--to sort, need author or key in Linkcomm
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 13 entries,
+You've used 15 entries,
             7128 wiz_defined-function locations,
-            1217 strings with 11446 characters,
-and the built_in function-call counts, 263644 in all, are:
-= -- 49958
+            1225 strings with 11657 characters,
+and the built_in function-call counts, 338336 in all, are:
+= -- 64820
 > -- 253
 < -- 156
-+ -- 31553
-- -- 99
-* -- 5819
-:= -- 45174
-add.period$ -- 18
-call.type$ -- 13
-change.case$ -- 132
-chr.to.int$ -- 322
-cite$ -- 21
-duplicate$ -- 950
-empty$ -- 2528
++ -- 41499
+- -- 110
+* -- 6916
+:= -- 57645
+add.period$ -- 20
+call.type$ -- 15
+change.case$ -- 152
+chr.to.int$ -- 324
+cite$ -- 27
+duplicate$ -- 1050
+empty$ -- 2763
 format.name$ -- 216
-if$ -- 68330
+if$ -- 88026
 int.to.chr$ -- 1
-int.to.str$ -- 37
-missing$ -- 418
-newline$ -- 342
+int.to.str$ -- 41
+missing$ -- 482
+newline$ -- 368
 num.names$ -- 45
-pop$ -- 469
+pop$ -- 543
 preamble$ -- 1
-purify$ -- 58
-quote$ -- 26
-skip$ -- 30410
+purify$ -- 64
+quote$ -- 30
+skip$ -- 39578
 stack$ -- 0
-substring$ -- 24621
-swap$ -- 243
-text.length$ -- 206
+substring$ -- 31365
+swap$ -- 247
+text.length$ -- 233
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 467
-warning$ -- 4
-while$ -- 348
+type$ -- 529
+warning$ -- 6
+while$ -- 377
 width$ -- 0
-write$ -- 406
-(There were 9 warnings)
+write$ -- 434
+(There were 13 warnings)

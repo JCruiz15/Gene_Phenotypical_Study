@@ -1,6 +1,6 @@
 %% BioMed_Central_Bib_Style_v1.01
 
-\begin{thebibliography}{13}
+\begin{thebibliography}{15}
 % BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
 \ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
 \ifx \binits  \undefined \def \binits#1{#1}\fi
@@ -118,7 +118,6 @@ Systemic lupus erythematosus.
 European Handbook of Dermatological Treatments, Third Edition,
 547--560
 (2022).
-doi:\doiurl{10.1007/978-3-662-45139-7_55}
 \end{botherref}
 \endbibitem
 
@@ -154,6 +153,14 @@ Help - STRING Functional Protein Association Networks.
 \endbibitem
 
 %%% 11
+\bibitem{IGraph}
+\begin{botherref}
+Igraph R Package.
+\url{https://igraph.org/r/#docs}
+\end{botherref}
+\endbibitem
+
+%%% 12
 \bibitem{Larrion2002}
 \begin{barticle}
 \bauthor{\bsnm{Larrión}, \binits{F.}},
@@ -168,7 +175,7 @@ doi:\doiurl{10.1016/S0012-365X(02)00266-2}
 \end{barticle}
 \endbibitem
 
-%%% 12
+%%% 13
 \bibitem{Seress1995}
 \begin{barticle}
 \bauthor{\bparticle{Ákos} \bsnm{Seress}},
@@ -182,11 +189,19 @@ doi:\doiurl{10.1006/jctb.1995.1020}
 \end{barticle}
 \endbibitem
 
-%%% 13
+%%% 14
 \bibitem{KEGGpathway}
 \begin{botherref}
 KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics.
 \url{https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html}
+\end{botherref}
+\endbibitem
+
+%%% 15
+\bibitem{Linkcomm}
+\begin{botherref}
+Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
+\url{https://www.rdocumentation.org/packages/linkcomm/versions/1.0-14}
 \end{botherref}
 \endbibitem
 
@@ -308,6 +323,11 @@ KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics.
 </bibl>
 
 <bibl id="B11">
+  <title><p>igraph R package</p></title>
+  <url>https://igraph.org/r/#docs</url>
+</bibl>
+
+<bibl id="B12">
   <title><p>Whitney triangulations, local girth and iterated clique
   graphs</p></title>
   <aug>
@@ -324,7 +344,7 @@ KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics.
   <url>http://xamanek.izt.uam.mx/map/papers/cuello10_DM.ps</url>
 </bibl>
 
-<bibl id="B12">
+<bibl id="B13">
   <title><p>Dense graphs with cycle neighborhoods</p></title>
   <aug>
     <au><cnm>Seress</cnm></au>
@@ -338,10 +358,16 @@ KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics.
   <url>http://www.inf.ethz.ch/personal/szabo/PS/kornyezetek.ps</url>
 </bibl>
 
-<bibl id="B13">
+<bibl id="B14">
   <title><p>KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical
   Bioinformatics</p></title>
   <url>https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html</url>
+</bibl>
+
+<bibl id="B15">
+  <title><p>Tools for Generating, Visualizing, and Analysing Link Communities
+  in Networks</p></title>
+  <url>https://www.rdocumentation.org/packages/linkcomm/versions/1.0-14</url>
 </bibl>
 
 </refgrp>
