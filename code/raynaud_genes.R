@@ -3,9 +3,6 @@ library(igraph)
 library(linkcomm)
 library(data.table)
 
-wd <- readline("Insert the code directory: ")
-setwd(wd)
-
 string_db <- STRINGdb$new(version="11", species=9606, score_threshold=700)
 
 string.network <- string_db$get_graph()
