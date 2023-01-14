@@ -7,7 +7,7 @@ string_db <- STRINGdb$new(version="11", species=9606, score_threshold=700)
 
 string.network <- string_db$get_graph()
 
-genes <- read.csv("genes_for_HP_0030880.csv", sep=";")
+genes <- read.csv("./code/genes_for_HP_0030880.csv", sep=";")
 
 genes_entrez <- string_db$map(my_data_frame = genes, my_data_frame_id_col_names = "GENE_SYMBOL")
 
@@ -25,7 +25,7 @@ lc <- linkcomm::getLinkCommunities(hits.df, hcmethod = "average")
 
 # Saving plots
 
-png(file="../results/Raynaud_genes-graph.png", width=850, height=850)
+png(file="./results/Raynaud_genes-graph.png", width=850, height=850)
 plot(
   hits.network,
   vertex.label = genes_entrez$GENE_SYMBOL,
@@ -41,16 +41,15 @@ plot(
 )
 dev.off()
 
-png(file="../results/Raynaud_genes-dendrogram.png", width=500, height=500)
+png(file="./results/Raynaud_genes-dendrogram.png", width=500, height=500)
 plot(lc, type = "summary")
 dev.off()
 
-
-png(file="../results/Raynaud_genes-comunity_members_matrix.png", width=500, height=500)
+png(file="./results/Raynaud_genes-comunity_members_matrix.png", width=500, height=500)
 plot(lc, type = "members")
 dev.off()
 
-png(file="../results/Raynaud_genes-comunities_graph.png", width=1080, height=1080)
+png(file="./results/Raynaud_genes-comunities_graph.png", width=1080, height=1080)
 plot(lc, type = "graph", layout = layout.fruchterman.reingold, ewidth = 2, vlabel = FALSE)
 dev.off()
 
@@ -59,7 +58,7 @@ dev.off()
 
 # Nested communities: Son aquellas comunidades que son independientes respecto a otras
 getAllNestedComm(lc)
-png("../results/Raynaud-nested_communities.png")
+png("./results/Raynaud-nested_communities.png")
 plot(lc, type = "graph", vlabel=FALSE)
 dev.off()
 
@@ -89,7 +88,7 @@ for (i in c(1:6)) {
   tryCatch(
     {
       comunidad <- enriquecimiento(i)
-      dir <- paste("../results/Raynaud_Enriquecimiento_funcional_Comunidades/Comunity", i, ".csv", sep = "")
+      dir <- paste("./results/Raynaud_Enriquecimiento_funcional_Comunidades/Comunity", i, ".csv", sep = "")
       write.csv(comunidad, dir)
     },
     error=function(err) {
