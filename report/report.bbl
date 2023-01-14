@@ -43,25 +43,25 @@
 \csname PreBibitemsHook\endcsname
 
 %%% 1
-\bibitem{Jepsen2009}
+\bibitem{Jepsen2009JustAnyway}
 \begin{barticle}
 \bauthor{\bsnm{Jepsen}, \binits{T.C.}}:
-\batitle{Just what is an ontology, anyway?}
+\batitle{{Just what is an ontology, anyway?}}
 \bjtitle{IT Professional Magazine}
-\bvolume{11},
+\bvolume{11}(\bissue{5}),
 \bfpage{22}
 (\byear{2009})
 \end{barticle}
 \endbibitem
 
 %%% 2
-\bibitem{Bard2004}
+\bibitem{Bard2004OntologiesChallenges}
 \begin{barticle}
 \bauthor{\bsnm{Bard}, \binits{J.B.L.}},
 \bauthor{\bsnm{Rhee}, \binits{S.Y.}}:
-\batitle{Ontologies in biology: design, applications and future challenges}.
+\batitle{{Ontologies in biology: design, applications and future challenges}}.
 \bjtitle{Nature Reviews Genetics 2004 5:3}
-\bvolume{5},
+\bvolume{5}(\bissue{3}),
 \bfpage{213}--\blpage{222}
 (\byear{2004}).
 doi:\doiurl{10.1038/nrg1295}
@@ -69,40 +69,42 @@ doi:\doiurl{10.1038/nrg1295}
 \endbibitem
 
 %%% 3
-\bibitem{hpo_web}
+\bibitem{HumanOntology}
 \begin{botherref}
-Human Phenotype Ontology.
+{Human Phenotype Ontology}.
 \url{https://hpo.jax.org/app/browse/term/HP:0030880}
 \end{botherref}
 \endbibitem
 
 %%% 4
-\bibitem{Raynaud-nih}
+\bibitem{2021FenomenoNIAMS}
 \begin{botherref}
-Fenómeno de Raynaud | Temas de Salud | NIAMS.
+{Fen{\'{o}}meno de Raynaud | Temas de salud | NIAMS}
+(2021).
 \url{https://www.niams.nih.gov/es/informacion-de-salud/fenomeno-de-raynaud}
 \end{botherref}
 \endbibitem
 
 %%% 5
-\bibitem{RaynaudRheuma}
+\bibitem{PaulSufka2019ElRaynaud}
 \begin{botherref}
-\oauthor{\bsnm{Sufka}, \binits{P.}}:
-El Fenómeno de Raynaud.
+\oauthor{\bsnm{{Paul Sufka}}}:
+{El Fen{\'{o}}meno de Raynaud}
+(2019).
 \url{https://www.rheumatology.org/I-Am-A/Patient-Caregiver/Enfermedades-y-Condiciones/El-Fenomeno-de-Raynaud}
 \end{botherref}
 \endbibitem
 
 %%% 6
-\bibitem{Pauling2019}
+\bibitem{Pauling2019RaynaudsManagement}
 \begin{barticle}
 \bauthor{\bsnm{Pauling}, \binits{J.D.}},
 \bauthor{\bsnm{Hughes}, \binits{M.}},
 \bauthor{\bsnm{Pope}, \binits{J.E.}}:
-\batitle{Raynaud's phenomenon-an update on diagnosis, classification and
-  management}.
+\batitle{{Raynaud's phenomenon-an update on diagnosis, classification and
+  management}}.
 \bjtitle{Clinical rheumatology}
-\bvolume{38},
+\bvolume{38}(\bissue{12}),
 \bfpage{3317}--\blpage{3330}
 (\byear{2019}).
 doi:\doiurl{10.1007/S10067-019-04745-5}
@@ -110,98 +112,108 @@ doi:\doiurl{10.1007/S10067-019-04745-5}
 \endbibitem
 
 %%% 7
-\bibitem{Kuhn2022}
+\bibitem{Kuhn2022SystemicErythematosus}
 \begin{botherref}
 \oauthor{\bsnm{Kuhn}, \binits{A.}},
 \oauthor{\bsnm{Landmann}, \binits{A.}}:
-Systemic lupus erythematosus.
+{Systemic Lupus Erythematosus}.
 European Handbook of Dermatological Treatments, Third Edition,
 547--560
 (2022).
+doi:\doiurl{10.1007/978-3-662-45139-7}
 \end{botherref}
 \endbibitem
 
 %%% 8
-\bibitem{Mohameden2022}
+\bibitem{Mohameden2022SclerodermaDisease}
 \begin{botherref}
 \oauthor{\bsnm{Mohameden}, \binits{M.}},
 \oauthor{\bsnm{Vashisht}, \binits{P.}},
 \oauthor{\bsnm{Sharman}, \binits{T.}}:
-Scleroderma and primary myocardial disease.
+{Scleroderma And Primary Myocardial Disease}.
 StatPearls
 (2022)
 \end{botherref}
 \endbibitem
 
 %%% 9
-\bibitem{Plaisier1993}
+\bibitem{Plaisier1993COL4A1-RelatedDisorders}
 \begin{botherref}
 \oauthor{\bsnm{Plaisier}, \binits{E.}},
 \oauthor{\bsnm{Ronco}, \binits{P.}}:
-Col4a1-related disorders.
-GeneReviews®
+{COL4A1-Related Disorders}.
+GeneReviews{\textregistered}
 (1993)
 \end{botherref}
 \endbibitem
 
 %%% 10
-\bibitem{STRINGdb}
+\bibitem{Torpey2004InterferonCells}
+\begin{barticle}
+\bauthor{\bsnm{Torpey}, \binits{N.}},
+\bauthor{\bsnm{Maher}, \binits{S.E.}},
+\bauthor{\bsnm{Bothwell}, \binits{A.L.M.}},
+\bauthor{\bsnm{Pober}, \binits{J.S.}}:
+\batitle{{Interferon {$\alpha$} but not interleukin 12 activates STAT4
+  signaling in human vascular endothelial cells}}.
+\bjtitle{Journal of Biological Chemistry}
+\bvolume{279}(\bissue{25}),
+\bfpage{26789}--\blpage{26796}
+(\byear{2004}).
+doi:\doiurl{10.1074/jbc.M401517200}
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem{HelpNetworks}
 \begin{botherref}
-Help - STRING Functional Protein Association Networks.
+{Help - STRING functional protein association networks}.
 \url{https://string-db.org/cgi/help?sessionId=bzJHBaJS0L92}
 \end{botherref}
 \endbibitem
 
-%%% 11
-\bibitem{IGraph}
+%%% 12
+\bibitem{IgraphPackage}
 \begin{botherref}
-Igraph R Package.
+{igraph R package}.
 \url{https://igraph.org/r/#docs}
 \end{botherref}
 \endbibitem
 
-%%% 12
-\bibitem{Larrion2002}
+%%% 13
+\bibitem{Larrion2002WhitneyGraphs}
 \begin{barticle}
-\bauthor{\bsnm{Larrión}, \binits{F.}},
+\bauthor{\bsnm{Larri{\'{o}}n}, \binits{F.}},
 \bauthor{\bsnm{Neumann-Lara}, \binits{V.}},
-\bauthor{\bsnm{Pizañ}, \binits{M.A.}}:
-\batitle{Whitney triangulations, local girth and iterated clique graphs}.
+\bauthor{\bsnm{Piza{\~{n}}}, \binits{M.A.}}:
+\batitle{{Whitney triangulations, local girth and iterated clique graphs}}.
 \bjtitle{Discrete Mathematics}
-\bvolume{258},
+\bvolume{258}(\bissue{1-3}),
 \bfpage{123}--\blpage{135}
 (\byear{2002}).
 doi:\doiurl{10.1016/S0012-365X(02)00266-2}
 \end{barticle}
 \endbibitem
 
-%%% 13
-\bibitem{Seress1995}
+%%% 14
+\bibitem{Seress1995DenseNeighborhoods}
 \begin{barticle}
-\bauthor{\bparticle{Ákos} \bsnm{Seress}},
-\bauthor{\bsnm{Szabó}, \binits{T.}}:
-\batitle{Dense graphs with cycle neighborhoods}.
+\bauthor{\bsnm{Seress}, \binits{S.}},
+\bauthor{\bsnm{Szab{\'{o}}}, \binits{T.}}:
+\batitle{{Dense graphs with cycle neighborhoods}}.
 \bjtitle{Journal of Combinatorial Theory, Series B}
-\bvolume{63},
+\bvolume{63}(\bissue{2}),
 \bfpage{281}--\blpage{293}
 (\byear{1995}).
 doi:\doiurl{10.1006/jctb.1995.1020}
 \end{barticle}
 \endbibitem
 
-%%% 14
-\bibitem{KEGGpathway}
-\begin{botherref}
-KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics.
-\url{https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html}
-\end{botherref}
-\endbibitem
-
 %%% 15
-\bibitem{Linkcomm}
+\bibitem{KEGGBioinformatics}
 \begin{botherref}
-Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
-\url{https://www.rdocumentation.org/packages/linkcomm/versions/1.0-14}
+{KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics}.
+\url{https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html}
 \end{botherref}
 \endbibitem
 
@@ -214,7 +226,7 @@ Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
 <refgrp>
 
 <bibl id="B1">
-  <title><p>Just what is an ontology, anyway?</p></title>
+  <title><p>{Just what is an ontology, anyway?}</p></title>
   <aug>
     <au><snm>Jepsen</snm><fnm>TC</fnm></au>
   </aug>
@@ -222,13 +234,14 @@ Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
   <publisher>IEEE Computer Society</publisher>
   <pubdate>2009</pubdate>
   <volume>11</volume>
+  <issue>5</issue>
   <fpage>22</fpage>
   <url>https://protegewiki.stanford.edu/images/b/b1/Solution_paper.pdf</url>
 </bibl>
 
 <bibl id="B2">
-  <title><p>Ontologies in biology: design, applications and future
-  challenges</p></title>
+  <title><p>{Ontologies in biology: design, applications and future
+  challenges}</p></title>
   <aug>
     <au><snm>Bard</snm><fnm>JB</fnm></au>
     <au><snm>Rhee</snm><fnm>SY</fnm></au>
@@ -237,34 +250,35 @@ Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
   <publisher>Nature Publishing Group</publisher>
   <pubdate>2004</pubdate>
   <volume>5</volume>
+  <issue>3</issue>
   <fpage>213</fpage>
-  <lpage>222</lpage>
+  <lpage>-222</lpage>
   <url>https://www.nature.com/articles/nrg1295</url>
 </bibl>
 
 <bibl id="B3">
-  <title><p>Human Phenotype Ontology</p></title>
+  <title><p>{Human Phenotype Ontology}</p></title>
   <url>https://hpo.jax.org/app/browse/term/HP:0030880</url>
 </bibl>
 
 <bibl id="B4">
-  <title><p>Fenómeno de Raynaud | Temas de salud | NIAMS</p></title>
+  <title><p>{Fen{\'{o}}meno de Raynaud | Temas de salud | NIAMS}</p></title>
   <pubdate>2021</pubdate>
   <url>https://www.niams.nih.gov/es/informacion-de-salud/fenomeno-de-raynaud</url>
 </bibl>
 
 <bibl id="B5">
-  <title><p>El Fenómeno de Raynaud</p></title>
+  <title><p>{El Fen{\'{o}}meno de Raynaud}</p></title>
   <aug>
-    <au><snm>Sufka</snm><fnm>P</fnm></au>
+    <au><cnm>{Paul Sufka}</cnm></au>
   </aug>
   <pubdate>2019</pubdate>
   <url>https://www.rheumatology.org/I-Am-A/Patient-Caregiver/Enfermedades-y-Condiciones/El-Fenomeno-de-Raynaud</url>
 </bibl>
 
 <bibl id="B6">
-  <title><p>Raynaud's phenomenon-an update on diagnosis, classification and
-  management</p></title>
+  <title><p>{Raynaud's phenomenon-an update on diagnosis, classification and
+  management}</p></title>
   <aug>
     <au><snm>Pauling</snm><fnm>JD</fnm></au>
     <au><snm>Hughes</snm><fnm>M</fnm></au>
@@ -274,13 +288,14 @@ Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
   <publisher>Clin Rheumatol</publisher>
   <pubdate>2019</pubdate>
   <volume>38</volume>
+  <issue>12</issue>
   <fpage>3317</fpage>
-  <lpage>3330</lpage>
+  <lpage>-3330</lpage>
   <url>https://pubmed.ncbi.nlm.nih.gov/31420815/</url>
 </bibl>
 
 <bibl id="B7">
-  <title><p>Systemic Lupus Erythematosus</p></title>
+  <title><p>{Systemic Lupus Erythematosus}</p></title>
   <aug>
     <au><snm>Kuhn</snm><fnm>A</fnm></au>
     <au><snm>Landmann</snm><fnm>A</fnm></au>
@@ -290,12 +305,12 @@ Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
   <publisher>StatPearls Publishing</publisher>
   <pubdate>2022</pubdate>
   <fpage>547</fpage>
-  <lpage>560</lpage>
+  <lpage>-560</lpage>
   <url>https://www.ncbi.nlm.nih.gov/books/NBK535405/</url>
 </bibl>
 
 <bibl id="B8">
-  <title><p>Scleroderma And Primary Myocardial Disease</p></title>
+  <title><p>{Scleroderma And Primary Myocardial Disease}</p></title>
   <aug>
     <au><snm>Mohameden</snm><fnm>M</fnm></au>
     <au><snm>Vashisht</snm><fnm>P</fnm></au>
@@ -307,67 +322,84 @@ Tools for Generating, Visualizing, and Analysing Link Communities in Networks.
 </bibl>
 
 <bibl id="B9">
-  <title><p>COL4A1-Related Disorders</p></title>
+  <title><p>{COL4A1-Related Disorders}</p></title>
   <aug>
     <au><snm>Plaisier</snm><fnm>E</fnm></au>
     <au><snm>Ronco</snm><fnm>P</fnm></au>
   </aug>
-  <source>GeneReviews®</source>
+  <source>GeneReviews{\textregistered}</source>
   <pubdate>1993</pubdate>
   <url>https://pubmed.ncbi.nlm.nih.gov/20301768/</url>
 </bibl>
 
 <bibl id="B10">
-  <title><p>Help - STRING functional protein association networks</p></title>
-  <url>https://string-db.org/cgi/help?sessionId=bzJHBaJS0L92</url>
+  <title><p>{Interferon {$\alpha$} but not interleukin 12 activates STAT4
+  signaling in human vascular endothelial cells}</p></title>
+  <aug>
+    <au><snm>Torpey</snm><fnm>N</fnm></au>
+    <au><snm>Maher</snm><fnm>SE</fnm></au>
+    <au><snm>Bothwell</snm><fnm>AL</fnm></au>
+    <au><snm>Pober</snm><fnm>JS</fnm></au>
+  </aug>
+  <source>Journal of Biological Chemistry</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2004</pubdate>
+  <volume>279</volume>
+  <issue>25</issue>
+  <fpage>26789</fpage>
+  <lpage>-26796</lpage>
+  <url>http://www.jbc.org/article/S0021925820856701/fulltext
+  http://www.jbc.org/article/S0021925820856701/abstract
+  https://www.jbc.org/article/S0021-9258(20)85670-1/abstract</url>
 </bibl>
 
 <bibl id="B11">
-  <title><p>igraph R package</p></title>
-  <url>https://igraph.org/r/#docs</url>
+  <title><p>{Help - STRING functional protein association networks}</p></title>
+  <url>https://string-db.org/cgi/help?sessionId=bzJHBaJS0L92</url>
 </bibl>
 
 <bibl id="B12">
-  <title><p>Whitney triangulations, local girth and iterated clique
-  graphs</p></title>
+  <title><p>{igraph R package}</p></title>
+  <url>https://igraph.org/r/#docs</url>
+</bibl>
+
+<bibl id="B13">
+  <title><p>{Whitney triangulations, local girth and iterated clique
+  graphs}</p></title>
   <aug>
-    <au><snm>Larrión</snm><fnm>F.</fnm></au>
+    <au><snm>Larri{\'{o}}n</snm><fnm>F.</fnm></au>
     <au><snm>Neumann Lara</snm><fnm>V.</fnm></au>
-    <au><snm>Pizañ</snm><fnm>M. A.</fnm></au>
+    <au><snm>Piza{\~{n}}</snm><fnm>M. A.</fnm></au>
   </aug>
   <source>Discrete Mathematics</source>
   <publisher>Elsevier B.V.</publisher>
   <pubdate>2002</pubdate>
   <volume>258</volume>
+  <issue>1-3</issue>
   <fpage>123</fpage>
-  <lpage>135</lpage>
+  <lpage>-135</lpage>
   <url>http://xamanek.izt.uam.mx/map/papers/cuello10_DM.ps</url>
 </bibl>
 
-<bibl id="B13">
-  <title><p>Dense graphs with cycle neighborhoods</p></title>
+<bibl id="B14">
+  <title><p>{Dense graphs with cycle neighborhoods}</p></title>
   <aug>
-    <au><cnm>Seress</cnm></au>
-    <au><snm>Szabó</snm><fnm>T</fnm></au>
+    <au><snm>Seress</snm><fnm>�</fnm></au>
+    <au><snm>Szab{\'{o}}</snm><fnm>T</fnm></au>
   </aug>
   <source>Journal of Combinatorial Theory, Series B</source>
   <pubdate>1995</pubdate>
   <volume>63</volume>
+  <issue>2</issue>
   <fpage>281</fpage>
-  <lpage>293</lpage>
+  <lpage>-293</lpage>
   <url>http://www.inf.ethz.ch/personal/szabo/PS/kornyezetek.ps</url>
 </bibl>
 
-<bibl id="B14">
-  <title><p>KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical
-  Bioinformatics</p></title>
-  <url>https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html</url>
-</bibl>
-
 <bibl id="B15">
-  <title><p>Tools for Generating, Visualizing, and Analysing Link Communities
-  in Networks</p></title>
-  <url>https://www.rdocumentation.org/packages/linkcomm/versions/1.0-14</url>
+  <title><p>{KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical
+  Bioinformatics}</p></title>
+  <url>https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html</url>
 </bibl>
 
 </refgrp>

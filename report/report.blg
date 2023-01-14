@@ -21,70 +21,55 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: bibliography.bib
-Warning--entry type for "Linkcomm" isn't style-file defined
---line 1 of file bibliography.bib
-Warning--entry type for "KEGGpathway" isn't style-file defined
---line 11 of file bibliography.bib
-Warning--entry type for "IGraph" isn't style-file defined
---line 111 of file bibliography.bib
-Warning--entry type for "STRINGdb" isn't style-file defined
---line 119 of file bibliography.bib
-Warning--entry type for "hpo_web" isn't style-file defined
---line 271 of file bibliography.bib
-Warning--entry type for "RaynaudRheuma" isn't style-file defined
---line 279 of file bibliography.bib
-Warning--entry type for "Raynaud-nih" isn't style-file defined
---line 327 of file bibliography.bib
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Warning--to sort, need author or key in hpo_web
-Warning--to sort, need author or key in Raynaud-nih
-Warning--to sort, need author or key in STRINGdb
-Warning--to sort, need author or key in IGraph
-Warning--to sort, need author or key in KEGGpathway
-Warning--to sort, need author or key in Linkcomm
+Warning--to sort, need author or key in HumanOntology
+Warning--to sort, need author or key in 2021FenomenoNIAMS
+Warning--to sort, need author or key in HelpNetworks
+Warning--to sort, need author or key in IgraphPackage
+Warning--to sort, need author or key in KEGGBioinformatics
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 15 entries,
             7128 wiz_defined-function locations,
-            1225 strings with 11657 characters,
-and the built_in function-call counts, 338336 in all, are:
-= -- 64820
-> -- 253
-< -- 156
-+ -- 41499
-- -- 110
-* -- 6916
-:= -- 57645
-add.period$ -- 20
+            1234 strings with 12450 characters,
+and the built_in function-call counts, 56930 in all, are:
+= -- 7121
+> -- 314
+< -- 201
++ -- 1498
+- -- 83
+* -- 4121
+:= -- 11361
+add.period$ -- 21
 call.type$ -- 15
-change.case$ -- 152
-chr.to.int$ -- 324
-cite$ -- 27
-duplicate$ -- 1050
-empty$ -- 2763
-format.name$ -- 216
-if$ -- 88026
+change.case$ -- 97
+chr.to.int$ -- 441
+cite$ -- 25
+duplicate$ -- 1150
+empty$ -- 3186
+format.name$ -- 255
+if$ -- 12864
 int.to.chr$ -- 1
 int.to.str$ -- 41
-missing$ -- 482
-newline$ -- 368
-num.names$ -- 45
-pop$ -- 543
+missing$ -- 486
+newline$ -- 396
+num.names$ -- 50
+pop$ -- 574
 preamble$ -- 1
-purify$ -- 64
+purify$ -- 65
 quote$ -- 30
-skip$ -- 39578
+skip$ -- 3335
 stack$ -- 0
-substring$ -- 31365
-swap$ -- 247
-text.length$ -- 233
+substring$ -- 7294
+swap$ -- 320
+text.length$ -- 201
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 529
-warning$ -- 6
-while$ -- 377
+type$ -- 538
+warning$ -- 5
+while$ -- 366
 width$ -- 0
-write$ -- 434
-(There were 13 warnings)
+write$ -- 474
+(There were 5 warnings)

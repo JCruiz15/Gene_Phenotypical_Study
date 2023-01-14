@@ -2,37 +2,37 @@
 
 \subsection{Ontologías}
 
-Para poder estudiar los sistemas influidos por el síndrome de Raynaud será necesario utilizar diferentes ontologías y bases de datos que podemos encontrar en Internet. Para ello en primer lugar debemos conocer qué es una ontología. Se podría definir como una manera formal de representar el conocimiento colectivo sobre un área en la que sus conceptos se describen por su significado y su relación entre el resto de componentes \cite{Jepsen2009}\cite{Bard2004}.
+Para poder estudiar los sistemas influidos por el síndrome de Raynaud será necesario utilizar diferentes ontologías y bases de datos que podemos encontrar en Internet. Para ello en primer lugar debemos conocer qué es una ontología. Se podría definir como una manera formal de representar el conocimiento colectivo sobre un área en la que sus conceptos se describen por su significado y su relación entre el resto de componentes \cite{Jepsen2009JustAnyway}\cite{Bard2004OntologiesChallenges}.
 
-En nuestro caso, usaremos la ontología de GO (\textit{Gene Ontology} \ref{GO}) y la ontología de HPO (\textit{Human Phenotype Ontology database} \ref{HPO}) \cite{hpo_web}. Dicha  ontología se encarga de mostrar las relaciones entre genes de diversas especies y HPO almacena ontologías asociadas a fenotipos de enfermedades del ser humano.
+En nuestro caso, usaremos la ontología de GO (\textit{Gene Ontology} \ref{GO}) y la ontología de HPO (\textit{Human Phenotype Ontology database} \ref{HPO}) \cite{HumanOntology}. Dicha  ontología se encarga de mostrar las relaciones entre genes de diversas especies y HPO almacena ontologías asociadas a fenotipos de enfermedades del ser humano.
 
 
 \subsection{Fenómeno Raynaud}
 \label{fen_raynaud}
 En particular el término HP:0030880 hace referencia en la ontología de HPO al fenómeno de Raynaud, esta enfermedad afecta al flujo de sangre en vasos arteriosos cuando baja la temperatura corporal, esto suele afectar en su mayoría a las extremidades superiores e inferiores.
 
-Más concretamente, el fenómeno de Raynaud causa una vasoconstricción de los vasos sanguíneos en situaciones de bajas temperaturas o estrés. Cuando esto ocurre, la sangre no puede llegar a la superficie de la piel y las áreas afectadas se vuelven blancas y azules. Cuando el flujo sanguíneo regresa, la piel se enrojece y se tiene una sensación de palpitación o de hormigueo. En casos severos, la pérdida del flujo sanguíneo puede causar llagas o muerte de los tejidos.\cite{Raynaud-nih}
+Más concretamente, el fenómeno de Raynaud causa una vasoconstricción de los vasos sanguíneos en situaciones de bajas temperaturas o estrés. Cuando esto ocurre, la sangre no puede llegar a la superficie de la piel y las áreas afectadas se vuelven blancas y azules. Cuando el flujo sanguíneo regresa, la piel se enrojece y se tiene una sensación de palpitación o de hormigueo. En casos severos, la pérdida del flujo sanguíneo puede causar llagas o muerte de los tejidos.\cite{2021FenomenoNIAMS}
 
 \subsubsection{Tipos de Raynaud}
 
 Es importante conocer que el fenómeno se divide en dos tipos de expresión en función del origen del mismo.
 \begin{itemize}
-	\item \textbf{Raynaud primario} o \textbf{enfermedad de Raynaud}: Es la forma más frecuente y a su vez la que provoca síntomas más leves, típicamente afectan a mujeres menores de 30 años (normalmente en la adolescencia) de momento no se conoce su origen, ya que el fenómeno de Raynaud primario ocurre en pacientes sin otra enfermedad reumática. \cite{RaynaudRheuma}
+	\item \textbf{Raynaud primario} o \textbf{enfermedad de Raynaud}: Es la forma más frecuente y a su vez la que provoca síntomas más leves, típicamente afectan a mujeres menores de 30 años (normalmente en la adolescencia) de momento no se conoce su origen, ya que el fenómeno de Raynaud primario ocurre en pacientes sin otra enfermedad reumática. \cite{PaulSufka2019ElRaynaud}
 	
-	\item \textbf{Raynaud secundario}: Es menos común y se denomina así ya que es provocado por otra condición. Estas son diversas y entre las diferentes enfermedades reumáticas que lo provocan se incluyen, entre otras, la esclerodermia, el lupus o el síndrome de Sjögren. Además puede deberse también a largas exposiciones al frío o ciertas sustancias químicas. Los síntomas provocados por el Raynaud secundario suelen ser más graves que en el primario. A menudo el fenómeno se presenta en mujeres mayores de los 30 años. \cite{Pauling2019}
+	\item \textbf{Raynaud secundario}: Es menos común y se denomina así ya que es provocado por otra condición. Estas son diversas y entre las diferentes enfermedades reumáticas que lo provocan se incluyen, entre otras, la esclerodermia, el lupus o el síndrome de Sjögren. Además puede deberse también a largas exposiciones al frío o ciertas sustancias químicas. Los síntomas provocados por el Raynaud secundario suelen ser más graves que en el primario. A menudo el fenómeno se presenta en mujeres mayores de los 30 años. \cite{Pauling2019RaynaudsManagement}
 \end{itemize}
 
 \subsection{Niveles de asociación}
 
-Para buscar información de genes y enfermedades en las que está asociado el fenomeno de raynaud encontramos en internet bases de datos de uso abierto como OMIM y HPO. Buscando en HPO el gen encontramos como la enfermedad de Raynaud está a su vez relacionado con otras 41 enfermedades distintas y unos 21 genes.
+Para buscar información de genes y enfermedades en las que está asociado el fenómeno de Raynaud encontramos en internet bases de datos de uso abierto como OMIM y HPO. Buscando en HPO el gen encontramos como la enfermedad de Raynaud está a su vez relacionado con otras 41 enfermedades distintas y unos 21 genes.
 
 \subsubsection{Enfermedades asociadas}
 
-El fenómeno de Raynaud como ya hemos comentado es una enfermedad cardiovascular que afecta principalmente al flujo de la sangre, sin embargo como es común en las enfermedades genéticas los genes a los que afecta según el contexto pueden producir unos fenotipos u otros y en nuestro caso encontramos dos enfermedades con las que el fenómeno de Raynaud tiene especial relación: \textit{Lupus eritematoso sistémico} \cite{Kuhn2022} o LES es una enfermedad auto-inmunitaria con múltiples fenotipos que van desde una leve irritación cutánea hasta afectar a varios órganos o incluso sistema nervioso central. La \textit{esclerodermia} \cite{Mohameden2022} es la otra enfermedad común cuando hablamos del fenomeno de Raynaud. La esclerodermia afecta de forma multisistémica a todo el organismo causando encogimiento en la piel y fallos vasculares.
+El fenómeno de Raynaud como ya hemos comentado es una enfermedad cardiovascular que afecta principalmente al flujo de la sangre, sin embargo como es común en las enfermedades genéticas los genes a los que afecta según el contexto pueden producir unos fenotipos u otros y en nuestro caso encontramos dos enfermedades con las que el fenómeno de Raynaud tiene especial relación: \textit{Lupus eritematoso sistémico} \cite{Kuhn2022SystemicErythematosus} o LES es una enfermedad auto-inmunitaria con múltiples fenotipos que van desde una leve irritación cutánea hasta afectar a varios órganos o incluso sistema nervioso central. La \textit{esclerodermia} \cite{Mohameden2022SclerodermaDisease} es la otra enfermedad común cuando hablamos del fenomeno de Raynaud. La esclerodermia afecta de forma multisistémica a todo el organismo causando encogimiento en la piel y fallos vasculares.
 	
 \subsubsection{Genes asociados:}
 \label{genes_asociados}
-Entre los 21 genes asociados que encontramos en HPO vemos algunos como STING1 al que solo está asociado además de con Raynaud con una vasculopatía con inicio en el lactante o el gen RNF125 asociado a Síndrome de Tenorio, sin embargo tras buscar información y papers en pubmed nos hemos centrado en el gen \textbf{COL4A1}. \cite{Plaisier1993}
+Entre los 21 genes asociados que encontramos en HPO vemos algunos como STING1 al que solo está asociado además de con Raynaud con una vasculopatía con inicio en el lactante o el gen RNF125 asociado a Síndrome de Tenorio, sin embargo tras buscar información y papers en pubmed nos hemos centrado en el gen \textbf{COL4A1}. \cite{Plaisier1993COL4A1-RelatedDisorders}
 
 Este gen afecta a un espectro muy amplio de trastornos entre los que destacamos: enfermedad cerebral de vasos pequeños, porencefalia, calambres musculares, aneurismas cerebrales, fenómeno de Raynaud; El COL4A1 se hereda de forma autosómica dominante y la mayoría de las personas estudiadas en todas ellas coincidían en tener un padre afectado. De esta forma cada hijo de un individuo con un trastorno relacionado con COL4A1 tiene un 50\% de probabilidades de heredar la variante patógena.
 
@@ -40,10 +40,9 @@ Este gen afecta a un espectro muy amplio de trastornos entre los que destacamos:
 
 Como ya hemos comentado en el apartado \ref{fen_raynaud} el síndrome de Raynaud provoca una vasoconstricción de los vasos sanguíneos. En este proceso cobran mucha importancia las células endoteliales (ECs), estas celulas se encuentran ubicadas en el lado luminal de la pared del vaso sanguíneo y realizan funciones como la formación de vasos sanguíneos, la coagulación, la fibrinólisis, la regulación del tono muscular y hasta tiene un papel en la inflamación. 
 
-Aquí entran en juego los genes de la familia STAT ( Signal Transducer and Activator of Transcription ) esta faimilia de genes proporcionan instrucciones para producir proteínas que forman parte de las vías de señalización química esenciales dentro de las células. Concretamente el STAT4 está relacionado con el síndrome de Raynaud debido a la vasocontricción de los vasos sanguíneos. Queremos destacar un estudio realizado por (??) en el cual se demuestra como el interleukin 12 que participa en la activación del gen STAT4 no funciona correctamente y demuestra como el \textbf{IFN-alpha} (Interferon alpha) lo activa en su lugar. Activando así a las células endoteliales y provocando una reacción no prevista en el organismo.
+Aquí entran en juego los genes de la familia STAT ( Signal Transducer and Activator of Transcription ) esta faimilia de genes proporcionan instrucciones para producir proteínas que forman parte de las vías de señalización química esenciales dentro de las células. Concretamente el STAT4 está relacionado con el síndrome de Raynaud debido a la vasocontricción de los vasos sanguíneos. Según el estudio de Torepey (et al.)\cite{Torpey2004InterferonCells} se demuestra como el interleukin 12 que participa en la activación del gen STAT4 no funciona correctamente y demuestra como el \textbf{IFN-alpha} (Interferon alpha) lo activa en su lugar. Activando así a las células endoteliales y provocando una reacción no prevista en el organismo.
 
 \ref{} PAPER DE ECS
-\ref{} PAPER TOCHO de la info
 
 \subsection{Objetivos}
 
