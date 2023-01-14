@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  14 JAN 2023 22:01
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  15 JAN 2023 00:24
+>>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,7 +443,11 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 LaTeX Warning: Reference `' on page 3 undefined on input line 45.
 
 ) (tex_files/material_methods.tex
+<<<<<<< HEAD
 <figures/Workflow_genes.png, id=126, 526.96875pt x 549.05125pt>
+=======
+<figures/Workflow_genes.png, id=133, 526.96875pt x 549.05125pt>
+>>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
 File: figures/Workflow_genes.png Graphic file (type png)
 <use figures/Workflow_genes.png>
 Package pdftex.def Info: figures/Workflow_genes.png  used on input line 11.
@@ -470,7 +478,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
  []
 
 ) (tex_files/resultados.tex
+<<<<<<< HEAD
 <figures/Raynaud_genes-graph.png, id=157, 853.1875pt x 853.1875pt>
+=======
+<figures/Raynaud_genes-graph.png, id=164, 853.1875pt x 853.1875pt>
+>>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
 File: figures/Raynaud_genes-graph.png Graphic file (type png)
 <use figures/Raynaud_genes-graph.png>
 Package pdftex.def Info: figures/Raynaud_genes-graph.png  used on input line 11
@@ -488,7 +500,7 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 8--15
  []
 
 [5]
-<figures/Raynaud_genes-dendrogram.png, id=168, 501.875pt x 501.875pt>
+<figures/Raynaud_genes-dendrogram.png, id=176, 501.875pt x 501.875pt>
 File: figures/Raynaud_genes-dendrogram.png Graphic file (type png)
 <use figures/Raynaud_genes-dendrogram.png>
 Package pdftex.def Info: figures/Raynaud_genes-dendrogram.png  used on input li
@@ -509,7 +521,7 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 22--29
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./figures/Raynaud_genes-graph.png>]
-<figures/Raynaud_genes-comunity_members_matrix.png, id=177, 501.875pt x 501.875
+<figures/Raynaud_genes-comunity_members_matrix.png, id=185, 501.875pt x 501.875
 pt>
 File: figures/Raynaud_genes-comunity_members_matrix.png Graphic file (type png)
 
@@ -533,7 +545,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./figures/Raynaud_genes-dendrogram.png> <./figures/Raynaud_genes-comunity_
 members_matrix.png>]
-<figures/Raynaud_genes-comunities_graph.png, id=189, 1084.05pt x 1084.05pt>
+<figures/Raynaud_genes-comunities_graph.png, id=197, 1084.05pt x 1084.05pt>
 File: figures/Raynaud_genes-comunities_graph.png Graphic file (type png)
 <use figures/Raynaud_genes-comunities_graph.png>
 Package pdftex.def Info: figures/Raynaud_genes-comunities_graph.png  used on in
@@ -550,19 +562,22 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 46--53
 []$[]$ 
  []
 
-) (tex_files/discusion.tex) (tex_files/conclusiones.tex)
-Underfull \vbox (badness 2626) has occurred while \output is active []
-
- [8 <./figures/Raynaud_genes-comunities_graph.png>] (report.bbl
+) (tex_files/discusion.tex [8 <./figures/Raynaud_genes-comunities_graph.png>])
+(tex_files/conclusiones.tex) (report.bbl
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 145.
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+<<<<<<< HEAD
 ))
 
+=======
+)
+[9]) 
+>>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
 AED: lastpage setting LastPage
-[9] (report.aux)
+[10] (report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -570,10 +585,17 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 0C5BA6A5B47F4DBB0A9FD5799F1A0A02;2477.
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: C506EB160CB247FD879CF2B6F9E63B71;2968
+(rerunfilecheck)             After:  B36F2785FEAC99C3CB605FBA224CD8F6;3044.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  11551 strings out of 475284
  188738 string characters out of 2774104
  555152 words of memory out of 3000000
@@ -600,4 +622,33 @@ PDF statistics:
  293 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 11559 strings out of 475284
+ 188925 string characters out of 2771236
+ 553967 words of memory out of 3000000
+ 32823 multiletter control sequences out of 15000+600000
+ 477775 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,10n,77p,1329b,721s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcss0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Pepe Aldana/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Pepe Aldana/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users
+/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmss10.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmss17.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pepe Aldana/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pep
+e Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pf
+b><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmtt8.pfb>
+Output written on report.pdf (10 pages, 258264 bytes).
+PDF statistics:
+ 308 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
 
