@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  20 DEC 2022 08:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  14 JAN 2023 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,8 +595,10 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 46--53
 []$[]$ 
  []
 
-) (tex_files/discusion.tex) (tex_files/conclusiones.tex) [8 <./figures/Raynaud_
-genes-comunities_graph.png>] (report.bbl
+) (tex_files/discusion.tex) (tex_files/conclusiones.tex)
+Underfull \vbox (badness 2626) has occurred while \output is active []
+
+ [8 <./figures/Raynaud_genes-comunities_graph.png>] (report.bbl
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 142.
 
@@ -616,13 +618,13 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 0C5BA6A5B47F4DBB0A9FD5799F1A0A02;2477.
  ) 
 Here is how much of TeX's memory you used:
- 11551 strings out of 475284
- 188812 string characters out of 2771236
- 552922 words of memory out of 3000000
- 32819 multiletter control sequences out of 15000+600000
+ 11552 strings out of 475284
+ 188824 string characters out of 2771236
+ 553955 words of memory out of 3000000
+ 32820 multiletter control sequences out of 15000+600000
  477416 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,1329b,576s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,1329b,578s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcss0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/
@@ -636,9 +638,9 @@ e1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pepe Aldana/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Pepe 
 Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (9 pages, 239375 bytes).
+Output written on report.pdf (9 pages, 239596 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
+ 287 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
