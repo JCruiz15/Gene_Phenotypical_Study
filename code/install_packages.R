@@ -9,12 +9,9 @@ for (pkg in pkg_list) {
   }
 }
 
-<<<<<<< HEAD
 if (!requireNamespace('BiocManager', quietly = TRUE))
   install.packages('BiocManager')
 
-=======
->>>>>>> 0e3eaab5c639853a7b4d66b4eb2176612724f016
 for (biopkg in bioc_list) {
   BiocManager::install(biopkg, lib = "./R_deps", force=TRUE)
 }
