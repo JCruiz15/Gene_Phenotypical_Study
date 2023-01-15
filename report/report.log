@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  15 JAN 2023 14:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  15 JAN 2023 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,7 +547,7 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 48--55
  []
 
 ) (tex_files/discusion.tex [8 <./figures/Raynaud_genes-comunities_graph.png>]
-[9]) (tex_files/conclusiones.tex) (report.bbl
+[9]) (tex_files/conclusiones.tex) (report.bbl [10]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 145.
 
@@ -571,22 +571,31 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 ) 
 AED: lastpage setting LastPage
-[10] (report.aux)
+[11] (report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 8CC0F0CD6E298AFF92600FA849B65E79;2709.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: 8CC0F0CD6E298AFF92600FA849B65E79;2709
+(rerunfilecheck)             After:  B85923FA6EED15E46DD4331177488FB4;2901.
  ) 
 Here is how much of TeX's memory you used:
- 11558 strings out of 475284
- 188863 string characters out of 2774104
- 546216 words of memory out of 3000000
+ 11560 strings out of 475284
+ 188884 string characters out of 2774104
+ 547216 words of memory out of 3000000
  32822 multiletter control sequences out of 15000+600000
  477416 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,1340b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,1340b,721s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -601,9 +610,9 @@ s/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.p
 fb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmti10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmtt8.pfb>
-Output written on report.pdf (10 pages, 255599 bytes).
+Output written on report.pdf (11 pages, 258115 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
  194 words of extra memory for PDF output out of 10000 (max. 10000000)
 
