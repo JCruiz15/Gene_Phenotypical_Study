@@ -1,11 +1,37 @@
 \section{Discusión}
 
-Como podemos observar en la figura \ref{fig:dendrogram} de los resultados nos hemos centrado en el cluster número 2/6 debido a la calidad de los resultados obtenidos tras aplicar a los genes un enriquecimiento funcional. 
+Tras realizar nuestro experimento y recavar los resultados, realizaremos una interpretación de los mismos. Nos centraremos en las comunidades 1 y 2, ya que son las que nos han ofrecido mejores resultados, para entender que funcionalidad biólogica desempeñan y ofrecer una posible terapia que ayude a tratar esta enfermedad. También se dará una posible explicación al porqué no hemos obtenido resultados satisfactorios para el resto de comunidades.
 
-\subsection{Comunidad de color gris??}
+Fijándonos en la figura \ref{fig:dendrogram}, en la que podemos observa el dendrograma de las comunidades obtenidas, vemos que las dos comunidades más grandes corresponden a las 1 y a la 2, que son en las que centraremos nuestras conclusiones.
+
+\subsection{Comunidad 2}
 
 La comunidad 2 como bien podemos observar en la tabla \ref{tab:comunity2} muestra los genes más sobre-expresados del grupo de genes que estamos estudiando. Estos genes están ordenados según su p-valor asociado, que es una medida estadística que nos ayuda a determinar como de significativos son los resultados obtenidos. Un p-valor menor a 0.05 determina rechaza la hipótesis nula. Como podemos observar en nuestros resultados todos superan este umbral por lo que se concluye que hay evidencia estadística. 
 
-A continuación fijándonos en la columna de N genes/total podemos ver como en algunos de ellos encontramos algunos genes bastantes mas significativos que otros concretamente la fila número 6 de la tabla \ref{tab:comunity2} donde tenemos dos genes sobre-expresados en un proceso en el que participan 26 genes en total, por lo que hemos buscado la función biológico de estos genes y el término de GO del proceso.
+Si observamos las descripciones de los enriquecimientos funcionales obtenidos, podemos conseguir una imagen general de la función biológica en la que participan los genes de esta comunidad. Observamos que los genes de esta comunidad en su mayoría participan en procesos metabólicos relacionados con la hidrólisis de los puentes de hidrógeno entre los ácidos nucléicos. Esto nos hace pensar que podría tratarse de un conjunto de proteínas encargado de la apertura de las cadenas de ADN en determinados procesos metabólicos.
 
-\subsubsection{\textbf{Hablar de las funciones biologicas del RNASEH2A y TREX1} }
+Fijándonos en la columna de \textit{N genes/total} podemos ver como en algunos de ellos encontramos algunos genes bastantes más significativos que otros concretamente la fila número 6 de la tabla \ref{tab:comunity2} donde tenemos dos genes expresados en un proceso en el que participan 26 genes en total.
+
+Estos dos genes son \textbf{RNASEH2A} y \textbf{TREX1} que participan en varios procesos de la comunidad, como la hidrólisis de enlaces fosfodiéster, la replicación del ADN y la reparación de errores en la duplicación del material genético. Con lo que con seguridad podemos afirmar que estos genes se encargan de la replicación celular.
+
+Con todas estas conclusiones, se observa una importancia demasiado esencial para aplicar cualquier tratamiento de inhibición o relajación de funcionalidad en estos genes, ya que su función es necesaria para la vida del paciente.
+
+\subsection{Comunidad 1}
+
+En la communidad 1 solo se ha obtenido el enriquecimiento de dos genes: \textbf{RNF125} y \textbf{IFIH1}. Los cuales participan, en mayor o menor medida, en diferentes procesos como pueden ser la regulación negativa de la producción de interferones, la regulación de la respuesta inmune nativa o la modificación de proteínas por uniones proteicas.
+
+Concretamente, participan mayormente en el proceso de la regulación de la producción de interferones tipo I. Los interferones tipo I son un subgrupo de proteínas que regulan la actividad del sistema inmunológico interaccionando con linfocitos, macrófagos, firoblastos, etc \cite{Meager2006TheApplication}. Esto parece indicar que estos genes se relacionan con el LES, enfermedad asociada al fenómeno de Raynaud y que provoca una enfermedad auto-inmune.
+Es probable que una mutación en estos genes, produzcan una reacción auto-inmune que produzca los síntomas de LES y que estos deriven en el fenómeno de Raynaud.
+
+Esto, nos puede ofrecer una posible vía para idear una terapia ante esta enfermedad. Se puede inhibir este gen mediante fármacos y así evitar la enfermedad auto-inmune, sin embargo esto provacaría una falta de defensas del organismo ante patógenos externos, con lo que sería conveniente obtener estas proteínas de regulación de forma artificial. No obstante, esta terapia sería bastante costosa y peligrosa para el paciente.
+
+\subsection{Calidad de los resultados}
+
+El resto de comunidades, de las que no hemos obtenido resultados tras el enriquecimiento funcional, no ofrecen nuevas conclusiones por la ausencia de datos empíricos. 
+
+Esta falta de datos, puede deberse a varias razones:
+
+\begin{itemize}
+	\item 
+\end{itemize}
+\end{itemize}

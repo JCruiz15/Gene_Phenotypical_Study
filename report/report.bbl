@@ -1,6 +1,6 @@
 %% BioMed_Central_Bib_Style_v1.01
 
-\begin{thebibliography}{15}
+\begin{thebibliography}{16}
 % BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
 \ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
 \ifx \binits  \undefined \def \binits#1{#1}\fi
@@ -198,7 +198,7 @@ doi:\doiurl{10.1016/S0012-365X(02)00266-2}
 %%% 14
 \bibitem{Seress1995DenseNeighborhoods}
 \begin{barticle}
-\bauthor{\bsnm{Seress}, \binits{S.}},
+\bauthor{\bsnm{Seress}, \binits{Ã.}},
 \bauthor{\bsnm{Szab{\'{o}}}, \binits{T.}}:
 \batitle{{Dense graphs with cycle neighborhoods}}.
 \bjtitle{Journal of Combinatorial Theory, Series B}
@@ -214,6 +214,16 @@ doi:\doiurl{10.1006/jctb.1995.1020}
 \begin{botherref}
 {KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical Bioinformatics}.
 \url{https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html}
+\end{botherref}
+\endbibitem
+
+%%% 16
+\bibitem{Meager2006TheApplication}
+\begin{botherref}
+\oauthor{\bsnm{Meager}, \binits{A.}}:
+{The interferons : characterization and application},
+410
+(2006)
 \end{botherref}
 \endbibitem
 
@@ -384,7 +394,7 @@ doi:\doiurl{10.1006/jctb.1995.1020}
 <bibl id="B14">
   <title><p>{Dense graphs with cycle neighborhoods}</p></title>
   <aug>
-    <au><snm>Seress</snm><fnm>ï¿½</fnm></au>
+    <au><snm>Seress</snm><fnm>Ã</fnm></au>
     <au><snm>Szab{\'{o}}</snm><fnm>T</fnm></au>
   </aug>
   <source>Journal of Combinatorial Theory, Series B</source>
@@ -400,6 +410,16 @@ doi:\doiurl{10.1006/jctb.1995.1020}
   <title><p>{KEGG Pathway Enrichment Analysis | CD Genomics- Biomedical
   Bioinformatics}</p></title>
   <url>https://bmb.cd-genomics.com/kegg-pathway-enrichment-analysis.html</url>
+</bibl>
+
+<bibl id="B16">
+  <title><p>{The interferons : characterization and application}</p></title>
+  <aug>
+    <au><snm>Meager</snm><fnm>A</fnm></au>
+  </aug>
+  <publisher>Wiley-VCH</publisher>
+  <pubdate>2006</pubdate>
+  <fpage>410</fpage>
 </bibl>
 
 </refgrp>

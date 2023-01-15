@@ -31,45 +31,45 @@ Warning--to sort, need author or key in KEGGBioinformatics
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 15 entries,
+You've used 16 entries,
             7128 wiz_defined-function locations,
-            1234 strings with 12450 characters,
-and the built_in function-call counts, 56930 in all, are:
-= -- 7121
-> -- 314
-< -- 201
-+ -- 1498
-- -- 83
-* -- 4121
-:= -- 11361
+            1242 strings with 12589 characters,
+and the built_in function-call counts, 59939 in all, are:
+= -- 7505
+> -- 330
+< -- 211
++ -- 1587
+- -- 86
+* -- 4306
+:= -- 12000
 add.period$ -- 21
-call.type$ -- 15
-change.case$ -- 97
-chr.to.int$ -- 441
-cite$ -- 25
-duplicate$ -- 1150
-empty$ -- 3186
-format.name$ -- 255
-if$ -- 12864
+call.type$ -- 16
+change.case$ -- 103
+chr.to.int$ -- 460
+cite$ -- 26
+duplicate$ -- 1217
+empty$ -- 3346
+format.name$ -- 267
+if$ -- 13547
 int.to.chr$ -- 1
-int.to.str$ -- 41
-missing$ -- 486
-newline$ -- 396
-num.names$ -- 50
-pop$ -- 574
+int.to.str$ -- 43
+missing$ -- 516
+newline$ -- 416
+num.names$ -- 55
+pop$ -- 611
 preamble$ -- 1
-purify$ -- 65
-quote$ -- 30
-skip$ -- 3335
+purify$ -- 69
+quote$ -- 32
+skip$ -- 3531
 stack$ -- 0
-substring$ -- 7294
-swap$ -- 320
-text.length$ -- 201
+substring$ -- 7630
+swap$ -- 333
+text.length$ -- 214
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 538
+type$ -- 567
 warning$ -- 5
-while$ -- 366
+while$ -- 389
 width$ -- 0
-write$ -- 474
+write$ -- 498
 (There were 5 warnings)

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  14 JAN 2023 22:01
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  15 JAN 2023 00:24
->>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  15 JAN 2023 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -356,24 +352,24 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -402,8 +398,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 33.
-Package hyperref Info: Link coloring ON on input line 33.
+(lastpage)             ! on input line 28.
+Package hyperref Info: Link coloring ON on input line 28.
  (report.out) (report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -413,41 +409,33 @@ Package caption Info: End \AtBeginDocument code.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 38.
+(Font)              size <12> substituted on input line 33.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <24> not available
-(Font)              size <24.88> substituted on input line 44.
+(Font)              size <24.88> substituted on input line 39.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 55.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 50.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 50.
 
 \address@aff1=\toks34
 (tex_files/introduction.tex
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 20.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 19.
  [1{C:/Users/juanc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-] [2]
-
-LaTeX Warning: Reference `' on page 3 undefined on input line 45.
-
-) (tex_files/material_methods.tex
-<<<<<<< HEAD
-<figures/Workflow_genes.png, id=126, 526.96875pt x 549.05125pt>
-=======
-<figures/Workflow_genes.png, id=133, 526.96875pt x 549.05125pt>
->>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
+] [2]) (tex_files/material_methods.tex
+<figures/Workflow_genes.png, id=134, 526.96875pt x 549.05125pt>
 File: figures/Workflow_genes.png Graphic file (type png)
 <use figures/Workflow_genes.png>
 Package pdftex.def Info: figures/Workflow_genes.png  used on input line 11.
@@ -478,24 +466,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
  []
 
 ) (tex_files/resultados.tex
-<<<<<<< HEAD
-<figures/Raynaud_genes-graph.png, id=157, 853.1875pt x 853.1875pt>
-=======
-<figures/Raynaud_genes-graph.png, id=164, 853.1875pt x 853.1875pt>
->>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
+<figures/Raynaud_genes-graph.png, id=165, 853.1875pt x 853.1875pt>
 File: figures/Raynaud_genes-graph.png Graphic file (type png)
 <use figures/Raynaud_genes-graph.png>
-Package pdftex.def Info: figures/Raynaud_genes-graph.png  used on input line 11
+Package pdftex.def Info: figures/Raynaud_genes-graph.png  used on input line 13
 .
 (pdftex.def)             Requested size: 361.0pt x 361.00511pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 12.
+(caption)                particular \caption on input line 14.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 8--15
+Overfull \hbox (8.0pt too wide) in paragraph at lines 10--17
 []$[]$ 
  []
 
@@ -504,16 +488,16 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 8--15
 File: figures/Raynaud_genes-dendrogram.png Graphic file (type png)
 <use figures/Raynaud_genes-dendrogram.png>
 Package pdftex.def Info: figures/Raynaud_genes-dendrogram.png  used on input li
-ne 25.
+ne 27.
 (pdftex.def)             Requested size: 252.6989pt x 252.70587pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 26.
+(caption)                particular \caption on input line 28.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 22--29
+Overfull \hbox (8.0pt too wide) in paragraph at lines 24--31
 []$[]$ 
  []
 
@@ -527,16 +511,16 @@ File: figures/Raynaud_genes-comunity_members_matrix.png Graphic file (type png)
 
 <use figures/Raynaud_genes-comunity_members_matrix.png>
 Package pdftex.def Info: figures/Raynaud_genes-comunity_members_matrix.png  use
-d on input line 37.
+d on input line 39.
 (pdftex.def)             Requested size: 252.6989pt x 252.70587pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 38.
+(caption)                particular \caption on input line 40.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 34--41
+Overfull \hbox (8.0pt too wide) in paragraph at lines 36--43
 []$[]$ 
  []
 
@@ -549,60 +533,60 @@ members_matrix.png>]
 File: figures/Raynaud_genes-comunities_graph.png Graphic file (type png)
 <use figures/Raynaud_genes-comunities_graph.png>
 Package pdftex.def Info: figures/Raynaud_genes-comunities_graph.png  used on in
-put line 49.
+put line 51.
 (pdftex.def)             Requested size: 252.6989pt x 252.68413pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 50.
+(caption)                particular \caption on input line 52.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (8.0pt too wide) in paragraph at lines 46--53
+Overfull \hbox (8.0pt too wide) in paragraph at lines 48--55
 []$[]$ 
  []
 
-) (tex_files/discusion.tex [8 <./figures/Raynaud_genes-comunities_graph.png>])
-(tex_files/conclusiones.tex) (report.bbl
+) (tex_files/discusion.tex [8 <./figures/Raynaud_genes-comunities_graph.png>]
+[9]) (tex_files/conclusiones.tex) (report.bbl
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 145.
 
 (C:\Users\juanc\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-<<<<<<< HEAD
-))
-
-=======
 )
-[9]) 
->>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ã.).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 \bauthor{\bsnm{Seress}, \binits{Ã.}}
+                                          ,
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+) 
 AED: lastpage setting LastPage
 [10] (report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: C506EB160CB247FD879CF2B6F9E63B71;2968
-(rerunfilecheck)             After:  B36F2785FEAC99C3CB605FBA224CD8F6;3044.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 8CC0F0CD6E298AFF92600FA849B65E79;2709.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 11551 strings out of 475284
- 188738 string characters out of 2774104
- 555152 words of memory out of 3000000
- 32819 multiletter control sequences out of 15000+600000
+ 11558 strings out of 475284
+ 188863 string characters out of 2774104
+ 546216 words of memory out of 3000000
+ 32822 multiletter control sequences out of 15000+600000
  477416 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,1340b,578s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,1340b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm0700.pk> <C:\Users\juanc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -617,38 +601,9 @@ s/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.p
 fb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmti10.pfb><C:/Users/juanc/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmtt8.pfb>
-Output written on report.pdf (9 pages, 248341 bytes).
+Output written on report.pdf (10 pages, 255599 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 11559 strings out of 475284
- 188925 string characters out of 2771236
- 553967 words of memory out of 3000000
- 32823 multiletter control sequences out of 15000+600000
- 477775 words of font info for 57 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,10n,77p,1329b,721s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcss0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm0700.pk> <C:\Users\Pepe Aldana\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Pepe Aldana/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Pepe Aldana/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users
-/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss10.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmss17.pfb><C:/Users/Pepe Aldana/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pepe Aldana/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pep
-e Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pf
-b><C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmtt8.pfb>
-Output written on report.pdf (10 pages, 258264 bytes).
-PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
+ 311 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
  194 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 296793a62df583c35585417c30decfcb6d4b62b3
 
