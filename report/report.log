@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  16 JAN 2023 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.30)  16 JAN 2023 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,18 +457,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <13> not available
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <24> not available
 (Font)              size <24.88> substituted on input line 39.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 50.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 49.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 50.
+(Font)              size <5> substituted on input line 49.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 50.
+(Font)              size <5> substituted on input line 49.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 50.
+(Font)              size <5> substituted on input line 49.
 
 \address@aff1=\toks34
 (tex_files/introduction.tex
@@ -590,7 +590,7 @@ Overfull \hbox (8.0pt too wide) in paragraph at lines 48--55
 
 ) (tex_files/discusion.tex [8 <./figures/Raynaud_genes-comunities_graph.png>]
 [9]) (tex_files/conclusiones.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 5--103
+Underfull \hbox (badness 10000) in paragraph at lines 5--102
 
  []
 
@@ -613,7 +613,7 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  11561 strings out of 475284
  189616 string characters out of 2771236
- 546255 words of memory out of 3000000
+ 546283 words of memory out of 3000000
  32823 multiletter control sequences out of 15000+600000
  477416 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -633,7 +633,7 @@ al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Pepe A
 ldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 C:/Users/Pepe Aldana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt8.pfb>
-Output written on report.pdf (11 pages, 259785 bytes).
+Output written on report.pdf (11 pages, 259808 bytes).
 PDF statistics:
  322 PDF objects out of 1000 (max. 8388607)
  64 named destinations out of 1000 (max. 500000)
