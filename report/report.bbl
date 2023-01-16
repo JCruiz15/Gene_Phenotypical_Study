@@ -198,7 +198,7 @@ doi:\doiurl{10.1016/S0012-365X(02)00266-2}
 %%% 14
 \bibitem{Seress1995DenseNeighborhoods}
 \begin{barticle}
-\bauthor{\bsnm{Seress}, \binits{Ã.}},
+\bauthor{\bsnm{Seress}, \binits{A.}},
 \bauthor{\bsnm{Szab{\'{o}}}, \binits{T.}}:
 \batitle{{Dense graphs with cycle neighborhoods}}.
 \bjtitle{Journal of Combinatorial Theory, Series B}
